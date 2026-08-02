@@ -1,0 +1,1367 @@
+[
+  {
+    "day": 1,
+    "topics": [
+      "Is / Am / Are Basics",
+      "Is/Am/Are + ING (Present Continuous)"
+    ],
+    "summary": "Is = hai (third person), Am = hu (main ke saath), Are = ho/hain (tum/hum/ve)",
+    "grammarIds": [
+      "g1",
+      "g2"
+    ],
+    "keywords": [
+      "am",
+      "are",
+      "basics",
+      "continuous",
+      "eating",
+      "ing",
+      "is",
+      "present continuous",
+      "present tense",
+      "studying"
+    ]
+  },
+  {
+    "day": 2,
+    "topics": [
+      "Was / Were Basics",
+      "Was/Were + ING (Past Continuous)"
+    ],
+    "summary": "Was = tha/thi (I/He/She/It ke saath), Were = the/thi (You/We/They ke saath)",
+    "grammarIds": [
+      "g3",
+      "g4"
+    ],
+    "keywords": [
+      "ing",
+      "kha raha tha",
+      "past continuous",
+      "past tense",
+      "tha",
+      "thi",
+      "was",
+      "were"
+    ]
+  },
+  {
+    "day": 3,
+    "topics": [
+      "Do / Does / Did Basics",
+      "Simple Present Tense (Habit Rule)"
+    ],
+    "summary": "Do/Does = present ke questions/negatives, Did = past ke questions/negatives",
+    "grammarIds": [
+      "g5",
+      "g6"
+    ],
+    "keywords": [
+      "V1",
+      "V1+es",
+      "daily",
+      "did",
+      "do",
+      "does",
+      "every day",
+      "habit",
+      "negatives",
+      "questions",
+      "routine"
+    ]
+  },
+  {
+    "day": 4,
+    "topics": [
+      "Simple Past Tense (V2 Rule)"
+    ],
+    "summary": "Past me kaam karne ke liye V2 use karo, negative/question me Did/Didn't ke saath V1",
+    "grammarIds": [
+      "g7"
+    ],
+    "keywords": [
+      "V2",
+      "did",
+      "didn't",
+      "past",
+      "simple past"
+    ]
+  },
+  {
+    "day": 5,
+    "topics": [
+      "Present Perfect (Have/Has + V3)",
+      "Since vs For"
+    ],
+    "summary": "Jab kaam ho chuka ho aur uska result abhi bhi relevant ho tab Have/Has + V3 use karo",
+    "grammarIds": [
+      "g8",
+      "g9"
+    ],
+    "keywords": [
+      "V3",
+      "duration",
+      "for",
+      "has",
+      "have",
+      "ho chuka",
+      "point",
+      "present perfect",
+      "since",
+      "specific time"
+    ]
+  },
+  {
+    "day": 6,
+    "topics": [
+      "Present Perfect Continuous"
+    ],
+    "summary": "Jab kaam pehle shuru hua aur abhi bhi chal raha ho tab Have/Has + Been + ING use karo",
+    "grammarIds": [
+      "g10"
+    ],
+    "keywords": [
+      "been",
+      "chal raha",
+      "continuous",
+      "for",
+      "ing",
+      "since"
+    ]
+  },
+  {
+    "day": 7,
+    "topics": [
+      "Past Perfect (Had + V3)",
+      "Past Perfect Continuous"
+    ],
+    "summary": "Jab past mein do kaam hue aur ek pehle wala batana ho tab Had + V3 use karo",
+    "grammarIds": [
+      "g11",
+      "g12"
+    ],
+    "keywords": [
+      "V3",
+      "earlier",
+      "had",
+      "had been",
+      "ing",
+      "past perfect",
+      "past perfect continuous",
+      "pehle",
+      "waiting"
+    ]
+  },
+  {
+    "day": 8,
+    "topics": [
+      "Used To (Past Habit)",
+      "CAN / COULD (Modal Verbs)"
+    ],
+    "summary": "Jo kaam pehle regularly hota tha par ab nahi hota usme Used To + V1 use karo",
+    "grammarIds": [
+      "g13",
+      "g14"
+    ],
+    "keywords": [
+      "aadat",
+      "ability",
+      "can",
+      "could",
+      "past habit",
+      "pehle",
+      "permission",
+      "request",
+      "used to"
+    ]
+  },
+  {
+    "day": 9,
+    "topics": [
+      "HAD / HAD TO / HAD BEEN"
+    ],
+    "summary": "Had+noun = khaya/piya, Had To+V1 = karna pada, Had+V3 = pehle kar chuka tha",
+    "grammarIds": [
+      "g15"
+    ],
+    "keywords": [
+      "had",
+      "had been",
+      "had to",
+      "majboori",
+      "pehle"
+    ]
+  },
+  {
+    "day": 10,
+    "topics": [
+      "Future Tense - WILL",
+      "MAY / MIGHT (Possibility)"
+    ],
+    "summary": "Will = 100% sure future, sab ke saath same form, baad mein V1",
+    "grammarIds": [
+      "g16",
+      "g17"
+    ],
+    "keywords": [
+      "certainty",
+      "chances",
+      "future",
+      "karega",
+      "may",
+      "might",
+      "possibility",
+      "shayad",
+      "will"
+    ]
+  },
+  {
+    "day": 11,
+    "topics": [
+      "SHALL - Formal English",
+      "WILL BE / MAY BE / MIGHT BE"
+    ],
+    "summary": "Shall = formal English, offers/suggestions mein (Shall I/We), documents mein",
+    "grammarIds": [
+      "g18",
+      "g19"
+    ],
+    "keywords": [
+      "formal",
+      "legal",
+      "may be",
+      "might be",
+      "no action",
+      "offer",
+      "shall",
+      "state",
+      "suggestion",
+      "will be"
+    ]
+  },
+  {
+    "day": 12,
+    "topics": [
+      "MUST HAVE / MAY HAVE / MIGHT HAVE",
+      "WILL HAVE + V3 (Future Completed)"
+    ],
+    "summary": "Past mein guess karna ho to Must Have=100%, May Have=high, Might Have=low chance",
+    "grammarIds": [
+      "g20",
+      "g21"
+    ],
+    "keywords": [
+      "V3",
+      "by the time",
+      "future completed",
+      "may have",
+      "might have",
+      "must have",
+      "past guessing",
+      "will have"
+    ]
+  },
+  {
+    "day": 13,
+    "topics": [
+      "WILL BE + ING / MAY BE + ING / MUST BE + ING"
+    ],
+    "summary": "Future mein kaam chal raha hoga batane ke liye Will/May/Might/Must Be + ING",
+    "grammarIds": [
+      "g22"
+    ],
+    "keywords": [
+      "may be ing",
+      "might be ing",
+      "must be ing",
+      "ongoing",
+      "will be ing"
+    ]
+  },
+  {
+    "day": 14,
+    "topics": [
+      "IS/AM/ARE in Future (Pre-Planned)",
+      "GOING TO vs ABOUT TO"
+    ],
+    "summary": "Will = sudden future, Is/Am/Are+ING = planned future (pehle se decide)",
+    "grammarIds": [
+      "g23",
+      "g24"
+    ],
+    "keywords": [
+      "about to",
+      "already decided",
+      "am",
+      "are",
+      "future",
+      "going to",
+      "gonna",
+      "immediate",
+      "intention",
+      "is",
+      "pre-planned"
+    ]
+  },
+  {
+    "day": 15,
+    "topics": [
+      "WOULD RATHER / IT IS HIGH TIME / I WISH",
+      "Second Conditional (Imaginary Future)"
+    ],
+    "summary": "V2 = past nahi bhi ho sakta - preference/advice/wish/imaginary mein",
+    "grammarIds": [
+      "g25",
+      "g26"
+    ],
+    "keywords": [
+      "I wish",
+      "V2",
+      "chahunga",
+      "high time",
+      "if",
+      "imaginary",
+      "kaash",
+      "unreal",
+      "what if",
+      "would",
+      "would rather"
+    ]
+  },
+  {
+    "day": 16,
+    "topics": [
+      "Conditional Rules Complete (Zero/First/Second/Third)"
+    ],
+    "summary": "Zero=truth, First=real future, Second=imaginary, Third=past regret",
+    "grammarIds": [
+      "g27"
+    ],
+    "keywords": [
+      "conditional",
+      "first",
+      "if",
+      "second",
+      "third",
+      "zero"
+    ]
+  },
+  {
+    "day": 17,
+    "topics": [
+      "Question Tags"
+    ],
+    "summary": "Positive sentence ke baad negative tag, negative ke baad positive tag - always opposite",
+    "grammarIds": [
+      "g28"
+    ],
+    "keywords": [
+      "aren't you",
+      "confirmation",
+      "hai na",
+      "na",
+      "question tag"
+    ]
+  },
+  {
+    "day": 18,
+    "topics": [
+      "Neither/Nor, Either/Or, Neither Of, Either Of"
+    ],
+    "summary": "Neither Of/Either Of = hamesha singular verb, Neither...Nor/Either...Or = verb subject after NOR/OR",
+    "grammarIds": [
+      "g29"
+    ],
+    "keywords": [
+      "either",
+      "na ye na wo",
+      "neither",
+      "nor",
+      "or",
+      "singular verb"
+    ]
+  },
+  {
+    "day": 19,
+    "topics": [
+      "Also / Either / So / Neither (Advanced Spoken)"
+    ],
+    "summary": "Also=positive bhi, Either=negative bhi nahi, So+TV+Sub=main bhi, Neither+TV+Sub=main bhi nahi",
+    "grammarIds": [
+      "g30"
+    ],
+    "keywords": [
+      "also",
+      "bhi",
+      "bhi nahi",
+      "either",
+      "neither am I",
+      "so am I"
+    ]
+  },
+  {
+    "day": 20,
+    "topics": [
+      "BE / BEING / BEEN - Forms of BE",
+      "Passive Voice - BE + V3 (Without Doer English)"
+    ],
+    "summary": "Is/Am/Are→Being, Has/Have→Been, Will/Can→Be, Was/Were→alone",
+    "grammarIds": [
+      "g31",
+      "g32"
+    ],
+    "keywords": [
+      "BE",
+      "V3",
+      "be",
+      "been",
+      "being",
+      "forms",
+      "passive voice",
+      "was",
+      "were",
+      "without doer"
+    ]
+  },
+  {
+    "day": 21,
+    "topics": [
+      "Passive with Me/Him/Her/Us/Them"
+    ],
+    "summary": "Passive mein object pronoun subject form mein badal jaata hai (Me→I, Him→He)",
+    "grammarIds": [
+      "g33"
+    ],
+    "keywords": [
+      "her",
+      "him",
+      "me",
+      "object pronoun",
+      "passive",
+      "subject form"
+    ]
+  },
+  {
+    "day": 22,
+    "topics": [
+      "Passive Voice Exceptions - LET/MAKE/Getting"
+    ],
+    "summary": "LET→Be+V3, MAKE→Made+To+V1, Perfect Continuous→Getting+V3",
+    "grammarIds": [
+      "g34"
+    ],
+    "keywords": [
+      "getting",
+      "let",
+      "make",
+      "passive exception",
+      "to"
+    ]
+  },
+  {
+    "day": 23,
+    "topics": [
+      "Would Have / Could Have / Should Have / Must Have + BEEN"
+    ],
+    "summary": "Would/Could/Should/May/Must Have + BEEN → Been+NoAction ya Been+V3 (passive)",
+    "grammarIds": [
+      "g35"
+    ],
+    "keywords": [
+      "V3",
+      "been",
+      "could have been",
+      "should have been",
+      "would have been"
+    ]
+  },
+  {
+    "day": 24,
+    "topics": [
+      "Articles - A, An, The",
+      "How Much vs How Many"
+    ],
+    "summary": "A/An = kaunsa nahi pata, The = dono pata hai, Uncountable mein A/An nahi",
+    "grammarIds": [
+      "g36",
+      "g37"
+    ],
+    "keywords": [
+      "a",
+      "an",
+      "articles",
+      "bread",
+      "countable",
+      "how many",
+      "how much",
+      "the",
+      "uncountable"
+    ]
+  },
+  {
+    "day": 25,
+    "topics": [
+      "Quantifiers - Much/Many/A Lot Of/Few/Little/Any/Some"
+    ],
+    "summary": "Few/Little=na ke barabar, A Few/A Little=kaam chal jayega, Much/Many=negative, Any=zero",
+    "grammarIds": [
+      "g38"
+    ],
+    "keywords": [
+      "a few",
+      "a little",
+      "a lot of",
+      "any",
+      "few",
+      "little",
+      "many",
+      "much",
+      "some"
+    ]
+  },
+  {
+    "day": 26,
+    "topics": [
+      "Although / Though / Even Though",
+      "Until / Unless / As Long As"
+    ],
+    "summary": "Although+But = galat, Though flexible hai, Even Though = strong contrast",
+    "grammarIds": [
+      "g39",
+      "g40"
+    ],
+    "keywords": [
+      "agar nahi",
+      "although",
+      "as long as",
+      "but",
+      "contrast",
+      "even though",
+      "if not",
+      "jab tak",
+      "phir bhi",
+      "though",
+      "unless",
+      "until"
+    ]
+  },
+  {
+    "day": 27,
+    "topics": [
+      "AS Family - As Soon As / As Long As / As Much As",
+      "As If / As Though / As Of Now / As It Is"
+    ],
+    "summary": "As Soon As=jaise hi, As Long As=jab tak, As Much As=jitna, As Far As=jahan tak",
+    "grammarIds": [
+      "g41",
+      "g42"
+    ],
+    "keywords": [
+      "as far as",
+      "as if",
+      "as it is",
+      "as long as",
+      "as much as",
+      "as of now",
+      "as soon as",
+      "as though",
+      "as usual",
+      "as well as",
+      "mano"
+    ]
+  },
+  {
+    "day": 28,
+    "topics": [
+      "Complete WOULD Rules"
+    ],
+    "summary": "Would = past future, polite request, invitation, past habit, suggestion, imaginary",
+    "grammarIds": [
+      "g43"
+    ],
+    "keywords": [
+      "habit",
+      "invitation",
+      "past future",
+      "request",
+      "suggestion",
+      "would"
+    ]
+  },
+  {
+    "day": 29,
+    "topics": [
+      "Semi-Modal Verbs - Used To / Need / Dare"
+    ],
+    "summary": "Used To=past habit, Need Not=no zaroorat, Dare=himmat/courage",
+    "grammarIds": [
+      "g44"
+    ],
+    "keywords": [
+      "dare",
+      "dare to",
+      "need not",
+      "need to",
+      "semi modal",
+      "used to"
+    ]
+  },
+  {
+    "day": 30,
+    "topics": [
+      "Short Forms - Gotta / Gonna / Wanna / Lemme"
+    ],
+    "summary": "Gotta=must, Gonna=future, Wanna=want, Lemme=let me - sirf informal mein",
+    "grammarIds": [
+      "g45"
+    ],
+    "keywords": [
+      "gonna",
+      "gotta",
+      "informal",
+      "lemme",
+      "short forms",
+      "wanna"
+    ]
+  },
+  {
+    "day": 31,
+    "topics": [
+      "Negative Questions",
+      "Inversion Grammar"
+    ],
+    "summary": "Negative questions = confirming ki nahi - Don't you know me?",
+    "grammarIds": [
+      "g46",
+      "g47"
+    ],
+    "keywords": [
+      "aren't you",
+      "don't you",
+      "had I known",
+      "hardly",
+      "inversion",
+      "negative questions",
+      "never",
+      "rarely",
+      "won't you"
+    ]
+  },
+  {
+    "day": 32,
+    "topics": [
+      "Degrees of Comparison"
+    ],
+    "summary": "1 syllable→ER/EST, 2+ syllables→MORE/MOST, irregular memorize karo",
+    "grammarIds": [
+      "g48"
+    ],
+    "keywords": [
+      "ER",
+      "EST",
+      "MORE",
+      "MOST",
+      "comparative",
+      "positive degree",
+      "superlative"
+    ]
+  },
+  {
+    "day": 33,
+    "topics": [
+      "Advanced Vocabulary - Moreover/Whereas/Nonetheless/However"
+    ],
+    "summary": "Moreover=iske alawa, Whereas=jabki, Nonetheless=phir bhi, However=haalaanki, So That=taaki",
+    "grammarIds": [
+      "g49"
+    ],
+    "keywords": [
+      "connectors",
+      "however",
+      "moreover",
+      "nonetheless",
+      "so that",
+      "whereas"
+    ]
+  },
+  {
+    "day": 34,
+    "topics": [
+      "Still / No Longer / Any More"
+    ],
+    "summary": "Still=abhi bhi, No Longer=ab nahi (formal), Anymore=ab nahi (informal)",
+    "grammarIds": [
+      "g50"
+    ],
+    "keywords": [
+      "ab nahi",
+      "abhi bhi",
+      "anymore",
+      "no longer",
+      "still"
+    ]
+  },
+  {
+    "day": 35,
+    "topics": [
+      "I Want To / I Want + Object + To",
+      "It is + Subject + Who"
+    ],
+    "summary": "I want to+V1=khud karna, I want+Object+To+V1=kisi aur se karwana",
+    "grammarIds": [
+      "g51",
+      "g52"
+    ],
+    "keywords": [
+      "I want",
+      "I want to",
+      "chahta hu",
+      "he",
+      "it is",
+      "object",
+      "she",
+      "to",
+      "who",
+      "yahi hai jo"
+    ]
+  },
+  {
+    "day": 36,
+    "topics": [
+      "The + Comparative + The + Comparative"
+    ],
+    "summary": "The + Comparative, The + Comparative = jitna...utna... (donon comparative)",
+    "grammarIds": [
+      "g53"
+    ],
+    "keywords": [
+      "jitna utna",
+      "the better",
+      "the comparative",
+      "the more"
+    ]
+  },
+  {
+    "day": 37,
+    "topics": [
+      "Not To Speak Of / Let Alone",
+      "THERE = Existence"
+    ],
+    "summary": "Not to speak of = formal, Let alone = spoken - dono ka matlab 'ki baat to chhodo'",
+    "grammarIds": [
+      "g54",
+      "g55"
+    ],
+    "keywords": [
+      "astitva",
+      "existence",
+      "ki baat to chhodo",
+      "let alone",
+      "not to speak of",
+      "there are",
+      "there is",
+      "wahan"
+    ]
+  },
+  {
+    "day": 38,
+    "topics": [
+      "Gen-Z Vocabulary"
+    ],
+    "summary": "Gen-Z words = modern informal vocabulary for young people",
+    "grammarIds": [
+      "g56"
+    ],
+    "keywords": [
+      "bussin",
+      "drip",
+      "fire",
+      "gen-z",
+      "no cap",
+      "rizz",
+      "sigma",
+      "slang"
+    ]
+  },
+  {
+    "day": 39,
+    "topics": [
+      "Ask Someone To + V1"
+    ],
+    "summary": "Ask + Someone + To + V1 = kisi ko bolna ki wo kare",
+    "grammarIds": [
+      "g57"
+    ],
+    "keywords": [
+      "ask",
+      "bolna",
+      "kehna",
+      "someone",
+      "to"
+    ]
+  },
+  {
+    "day": 40,
+    "topics": [
+      "Had Been vs Was/Were - Duration vs Particular Time"
+    ],
+    "summary": "Had Been+ING=duration (since/for), Was/Were+ING=particular time mein chal raha tha",
+    "grammarIds": [
+      "g58"
+    ],
+    "keywords": [
+      "duration",
+      "for",
+      "had been",
+      "particular time",
+      "since",
+      "was",
+      "were"
+    ]
+  },
+  {
+    "day": 41,
+    "topics": [
+      "Present Perfect Continuous Passive"
+    ],
+    "summary": "Has/Have Been + Getting + V3 = past se chal raha hai (passive form)",
+    "grammarIds": [
+      "g59"
+    ],
+    "keywords": [
+      "continuous",
+      "has been getting",
+      "have been getting",
+      "passive"
+    ]
+  },
+  {
+    "day": 42,
+    "topics": [
+      "Would Rather / It Is High Time / I Wish (Revision)"
+    ],
+    "summary": "V2 = past nahi, unreal/imaginary/preference/wish/advice mein",
+    "grammarIds": [
+      "g60"
+    ],
+    "keywords": [
+      "I wish",
+      "V2",
+      "chahunga",
+      "high time",
+      "kaash",
+      "would rather"
+    ]
+  },
+  {
+    "day": 43,
+    "topics": [
+      "Past Rules Complete Revision"
+    ],
+    "summary": "All past forms together for complete revision and understanding",
+    "grammarIds": [
+      "g61"
+    ],
+    "keywords": [
+      "V2",
+      "had been ing",
+      "had v3",
+      "past revision",
+      "was ing"
+    ]
+  },
+  {
+    "day": 44,
+    "topics": [
+      "IS/AM/ARE TO vs HAVE TO vs WAS TO vs HAD TO"
+    ],
+    "summary": "Is To=order(karna hai), Have To=compulsion(karna padega), Was To=karna tha, Had To=karna pada",
+    "grammarIds": [
+      "g62"
+    ],
+    "keywords": [
+      "had to",
+      "have to",
+      "is to",
+      "karna hai",
+      "karna padega",
+      "was to"
+    ]
+  },
+  {
+    "day": 45,
+    "topics": [
+      "SHALL/WILL/MAY/MIGHT - Future Probability Scale"
+    ],
+    "summary": "Will=100%, May=high chance, Might=low chance, Shall=formal/offers",
+    "grammarIds": [
+      "g63"
+    ],
+    "keywords": [
+      "certainty",
+      "may",
+      "might",
+      "probability",
+      "shall",
+      "will"
+    ]
+  },
+  {
+    "day": 46,
+    "topics": [
+      "MUST HAVE / MAY HAVE / MIGHT HAVE / WILL HAVE"
+    ],
+    "summary": "Must Have=pakka, May Have=shayad, Might Have=kam chances, Will Have=ho chuka hoga",
+    "grammarIds": [
+      "g64"
+    ],
+    "keywords": [
+      "V3",
+      "by the time",
+      "may have",
+      "might have",
+      "must have",
+      "will have"
+    ]
+  },
+  {
+    "day": 47,
+    "topics": [
+      "WILL BE + ING / MAY BE + ING / MUST BE + ING"
+    ],
+    "summary": "BE ke baad sirf 3 cheezein: No Action, ING, ya V3 - 4th rule nahi",
+    "grammarIds": [
+      "g65"
+    ],
+    "keywords": [
+      "may be ing",
+      "might be ing",
+      "must be ing",
+      "ongoing",
+      "will be ing"
+    ]
+  },
+  {
+    "day": 48,
+    "topics": [
+      "IS/AM/ARE in Future / Going To / About To"
+    ],
+    "summary": "Will=sudden, Is/Am/Are+ING=planned, Going To=intention, About To=immediate",
+    "grammarIds": [
+      "g66"
+    ],
+    "keywords": [
+      "about to",
+      "going to",
+      "gonna",
+      "is am are future",
+      "planned"
+    ]
+  },
+  {
+    "day": 49,
+    "topics": [
+      "Second Conditional / Imaginary Future / V2 Non-Past"
+    ],
+    "summary": "V2 = past nahi bhi ho sakta - imaginary/preference/wish/advice mein",
+    "grammarIds": [
+      "g67"
+    ],
+    "keywords": [
+      "V2",
+      "if",
+      "imaginary",
+      "kaash",
+      "unreal",
+      "were",
+      "would"
+    ]
+  },
+  {
+    "day": 50,
+    "topics": [
+      "All 4 Conditional Rules"
+    ],
+    "summary": "Zero=truth, First=real future, Second=imaginary, Third=past regret",
+    "grammarIds": [
+      "g68"
+    ],
+    "keywords": [
+      "conditional",
+      "first",
+      "if",
+      "second",
+      "third",
+      "would have",
+      "zero"
+    ]
+  },
+  {
+    "day": 51,
+    "topics": [
+      "Question Tags Complete"
+    ],
+    "summary": "Positive→Negative tag, Negative→Positive tag, always opposite",
+    "grammarIds": [
+      "g69"
+    ],
+    "keywords": [
+      "aren't you",
+      "confirmation",
+      "didn't you",
+      "hai na",
+      "na",
+      "question tag"
+    ]
+  },
+  {
+    "day": 52,
+    "topics": [
+      "Neither/Nor, Either/Or, Neither Of, Either Of"
+    ],
+    "summary": "Neither Of/Either Of=always singular, Neither...Nor/Either...Or=verb follows after NOR/OR",
+    "grammarIds": [
+      "g70"
+    ],
+    "keywords": [
+      "either",
+      "na ye na wo",
+      "neither",
+      "nor",
+      "or",
+      "singular verb"
+    ]
+  },
+  {
+    "day": 53,
+    "topics": [
+      "Also / Either / So / Neither (Advanced)"
+    ],
+    "summary": "Positive→Also/So+TV+Sub, Negative→Either/Neither+TV+Sub",
+    "grammarIds": [
+      "g71"
+    ],
+    "keywords": [
+      "also",
+      "bhi",
+      "bhi nahi",
+      "either",
+      "neither am I",
+      "so am I"
+    ]
+  },
+  {
+    "day": 54,
+    "topics": [
+      "BE/BEING/BEEN Forms + Passive Voice Basics"
+    ],
+    "summary": "BE+NoAction=state, BE+ING=action in progress, BE+V3=passive voice",
+    "grammarIds": [
+      "g72"
+    ],
+    "keywords": [
+      "V3",
+      "be",
+      "been",
+      "being",
+      "passive",
+      "without doer"
+    ]
+  },
+  {
+    "day": 55,
+    "topics": [
+      "Passive Voice Advanced - Habit/Me-Him-Her"
+    ],
+    "summary": "Is/Am/Are+V3=habit passive, Object pronoun→subject form in passive",
+    "grammarIds": [
+      "g73"
+    ],
+    "keywords": [
+      "been",
+      "being",
+      "habit passive",
+      "is made",
+      "me him her",
+      "passive"
+    ]
+  },
+  {
+    "day": 56,
+    "topics": [
+      "Passive Voice Exceptions - LET/MAKE/Getting"
+    ],
+    "summary": "LET→Be+V3, MAKE→Made+To+V1, Perfect Continuous→Getting+V3",
+    "grammarIds": [
+      "g74"
+    ],
+    "keywords": [
+      "getting",
+      "let",
+      "make",
+      "passive exception",
+      "to"
+    ]
+  },
+  {
+    "day": 57,
+    "topics": [
+      "Would Have/Could Have/Should Have + BEEN"
+    ],
+    "summary": "Would/Could/Should/May/Must Have→BEEN (BE ki V3)→NoAction ya V3",
+    "grammarIds": [
+      "g75"
+    ],
+    "keywords": [
+      "V3",
+      "been",
+      "could have",
+      "passive",
+      "should have",
+      "would have"
+    ]
+  },
+  {
+    "day": 58,
+    "topics": [
+      "Articles A/An/The + How Much/Many"
+    ],
+    "summary": "A/An=unknown, The=known, How Much=uncountable, How Many=countable",
+    "grammarIds": [
+      "g76"
+    ],
+    "keywords": [
+      "a",
+      "an",
+      "countable",
+      "how many",
+      "how much",
+      "the",
+      "uncountable"
+    ]
+  },
+  {
+    "day": 59,
+    "topics": [
+      "Quantifiers - Much/Many/Few/Little/A Few/A Little/Any/Some"
+    ],
+    "summary": "Few/Little=na ke barabar, A Few/A Little=kaam chal jayega, Any=zero, Some=kuch hai",
+    "grammarIds": [
+      "g77"
+    ],
+    "keywords": [
+      "a few",
+      "a little",
+      "a lot of",
+      "any",
+      "few",
+      "little",
+      "many",
+      "much",
+      "some"
+    ]
+  },
+  {
+    "day": 60,
+    "topics": [
+      "Although/Though/Even Though/Until/Unless/As Long As"
+    ],
+    "summary": "Although=but, Unless=if not, Until=time, As Long As=positive jab tak",
+    "grammarIds": [
+      "g78"
+    ],
+    "keywords": [
+      "although",
+      "as long as",
+      "but",
+      "even though",
+      "though",
+      "unless",
+      "until"
+    ]
+  },
+  {
+    "day": 61,
+    "topics": [
+      "AS Family Complete"
+    ],
+    "summary": "As Soon As=jaise hi, As Long As=jab tak, As Much As=jitna, As Far As=jahan tak",
+    "grammarIds": [
+      "g79"
+    ],
+    "keywords": [
+      "as far as",
+      "as if",
+      "as long as",
+      "as much as",
+      "as soon as",
+      "as though",
+      "as well as"
+    ]
+  },
+  {
+    "day": 62,
+    "topics": [
+      "Complete WOULD Rules"
+    ],
+    "summary": "Would = past future, polite request, invitation, past habit, suggestion, imaginary",
+    "grammarIds": [
+      "g80"
+    ],
+    "keywords": [
+      "habit",
+      "imaginary",
+      "invitation",
+      "past future",
+      "request",
+      "suggestion",
+      "would"
+    ]
+  },
+  {
+    "day": 63,
+    "topics": [
+      "Semi-Modal Verbs - Used To / Need / Dare"
+    ],
+    "summary": "Used To=past habit, Need Not=no zaroorat, Dare=himmat",
+    "grammarIds": [
+      "g81"
+    ],
+    "keywords": [
+      "dare",
+      "dare to",
+      "need not",
+      "need to",
+      "semi modal",
+      "used to"
+    ]
+  },
+  {
+    "day": 64,
+    "topics": [
+      "Short Forms - Gotta/Gonna/Wanna/Lemme"
+    ],
+    "summary": "Gotta=must, Gonna=future, Wanna=want, Lemme=let me",
+    "grammarIds": [
+      "g82"
+    ],
+    "keywords": [
+      "gonna",
+      "gotta",
+      "informal",
+      "lemme",
+      "short forms",
+      "wanna"
+    ]
+  },
+  {
+    "day": 65,
+    "topics": [
+      "Negative Questions + Inversion Grammar"
+    ],
+    "summary": "Inversion = special word pehle, phir helping verb, phir subject",
+    "grammarIds": [
+      "g83"
+    ],
+    "keywords": [
+      "had I known",
+      "hardly",
+      "inversion",
+      "negative questions",
+      "never",
+      "rarely"
+    ]
+  },
+  {
+    "day": 66,
+    "topics": [
+      "Degrees of Comparison Complete"
+    ],
+    "summary": "1 syllable→ER/EST, 2+→MORE/MOST, irregular memorize, never More+ER",
+    "grammarIds": [
+      "g84"
+    ],
+    "keywords": [
+      "ER",
+      "EST",
+      "MORE",
+      "MOST",
+      "comparative",
+      "irregular",
+      "positive",
+      "superlative"
+    ]
+  },
+  {
+    "day": 67,
+    "topics": [
+      "Advanced Vocabulary + Connectors"
+    ],
+    "summary": "Moreover=iske alawa, Whereas=jabki, Nonetheless=phir bhi, However=haalaanki, So That=taaki",
+    "grammarIds": [
+      "g85"
+    ],
+    "keywords": [
+      "connectors",
+      "however",
+      "moreover",
+      "nonetheless",
+      "so that",
+      "whereas"
+    ]
+  },
+  {
+    "day": 68,
+    "topics": [
+      "Also/Either/Still/No Longer/Any More"
+    ],
+    "summary": "Still=abhi bhi, No Longer=ab nahi (formal), Anymore=ab nahi (informal)",
+    "grammarIds": [
+      "g86"
+    ],
+    "keywords": [
+      "ab nahi",
+      "abhi bhi",
+      "also",
+      "anymore",
+      "either",
+      "no longer",
+      "still"
+    ]
+  },
+  {
+    "day": 69,
+    "topics": [
+      "VIP Rules - I Want To / It Is Who / The+Comparative"
+    ],
+    "summary": "I want to+V1=khud karna, I want+Obj+To+V1=kisi aur se, It is he/she who=yahi hai jo",
+    "grammarIds": [
+      "g87"
+    ],
+    "keywords": [
+      "I want",
+      "I want to",
+      "it is who",
+      "presentation",
+      "the comparative"
+    ]
+  },
+  {
+    "day": 70,
+    "topics": [
+      "Not To Speak Of / Let Alone + THERE (Existence)"
+    ],
+    "summary": "Not to speak of/Let alone=ki baat to chhodo, There=is/astitva hona",
+    "grammarIds": [
+      "g88"
+    ],
+    "keywords": [
+      "astitva",
+      "existence",
+      "let alone",
+      "not to speak of",
+      "there are",
+      "there is"
+    ]
+  }
+]

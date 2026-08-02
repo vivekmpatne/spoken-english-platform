@@ -1,0 +1,74 @@
+[
+  {
+    "id": "i1",
+    "question": "Tell me about yourself",
+    "purpose": "Interviewer chahta hai tumhara background, skills aur confidence samajhna.",
+    "answerTemplate": "Greeting + Background + Current status + Key skill + Why interested",
+    "beginnerAnswer": "Hello, my name is __. I am a student of __. I am learning web development. I want to grow my career in software.",
+    "professionalAnswer": "Good morning. My name is __, and I am currently pursuing my degree in Computer Science. Over the past year, I have built strong skills in the MERN stack and worked on projects like __. I am excited about this role because it aligns with my goal of becoming a software engineer.",
+    "tips": ["Keep it under 90 seconds", "Focus on relevant skills", "End by connecting to the role"]
+  },
+  {
+    "id": "i2",
+    "question": "Where do you see yourself after 5 years?",
+    "purpose": "Tumhari career planning aur ambition check karta hai.",
+    "answerTemplate": "Short-term goal + Long-term goal + Connection to company",
+    "beginnerAnswer": "I want to become a good software developer. In 5 years I want to work on big projects.",
+    "professionalAnswer": "In the next five years, I see myself growing into a senior engineer role, having built deep expertise in scalable systems, and contributing to products that create real impact at a company like this one.",
+    "tips": ["Show ambition without sounding unrealistic", "Tie your goal back to the company"]
+  },
+  {
+    "id": "i3",
+    "question": "What are your strengths?",
+    "purpose": "Tumhari self-awareness aur job-fit check karta hai.",
+    "answerTemplate": "Strength + Example + Result",
+    "beginnerAnswer": "My strength is that I learn fast and I work hard.",
+    "professionalAnswer": "One of my key strengths is problem-solving. For example, during a project I identified a performance bottleneck and optimized the code, which reduced load time by 40%.",
+    "tips": ["Always back it up with a real example", "Pick strengths relevant to the job"]
+  },
+  {
+    "id": "i4",
+    "question": "What are your weaknesses?",
+    "purpose": "Ye dekhna ki tum apni kamzori ko kaise handle karte ho.",
+    "answerTemplate": "Real weakness + Steps you're taking to improve",
+    "beginnerAnswer": "My weakness is public speaking.",
+    "professionalAnswer": "I used to find public speaking challenging, so I started practicing by presenting in college seminars and recording myself, and I've seen good improvement.",
+    "tips": ["Never say 'I have no weakness'", "Always pair it with an improvement action"]
+  },
+  {
+    "id": "i5",
+    "question": "Why should we hire you?",
+    "purpose": "Tumhari value proposition dekhna.",
+    "answerTemplate": "Relevant skill + Unique value + Enthusiasm",
+    "beginnerAnswer": "Because I am hardworking and I want to learn.",
+    "professionalAnswer": "I bring a strong foundation in full-stack development, hands-on project experience, and a genuine eagerness to contribute from day one, which I believe makes me a strong fit for this role.",
+    "tips": ["Connect your skills directly to the job description"]
+  },
+  {
+    "id": "i6",
+    "question": "Why do you want this company?",
+    "purpose": "Ye check karta hai ki tumne company ke baare me research ki hai ya nahi.",
+    "answerTemplate": "What you admire about the company + How it matches your goals",
+    "beginnerAnswer": "Because this is a good company and I want to work here.",
+    "professionalAnswer": "I admire how this company builds products that reach millions of users, and I want to be part of a team that solves real engineering challenges at that scale.",
+    "tips": ["Research the company beforehand", "Mention something specific, not generic"]
+  },
+  {
+    "id": "i7",
+    "question": "Describe a challenge you faced and how you solved it",
+    "purpose": "Problem-solving aur resilience dekhna.",
+    "answerTemplate": "Situation + Task + Action + Result (STAR method)",
+    "beginnerAnswer": "I had a bug in my project. I fixed it after some time.",
+    "professionalAnswer": "During my final project, our deployment kept failing due to environment mismatches. I researched the issue, containerized the app using Docker, and successfully resolved the deployment, which taught me a lot about DevOps.",
+    "tips": ["Use the STAR method: Situation, Task, Action, Result"]
+  },
+  {
+    "id": "i8",
+    "question": "Do you have any questions for us?",
+    "purpose": "Tumhari genuine interest aur engagement dekhna.",
+    "answerTemplate": "1-2 thoughtful questions about role, team, or growth",
+    "beginnerAnswer": "No, I don't have any questions.",
+    "professionalAnswer": "Yes, I'd love to know what a typical day looks like for someone in this role, and what growth opportunities the team offers.",
+    "tips": ["Always ask at least one question", "Avoid asking only about salary here"]
+  }
+]

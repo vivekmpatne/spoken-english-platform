@@ -1,0 +1,33 @@
+.roadmap-page { padding: 44px 24px 70px; }
+.roadmap-page h1 { font-size: 2.2rem; margin: 10px 0 8px; }
+.roadmap-sub { color: var(--ink-soft); margin-bottom: 40px; }
+
+.timeline { display: flex; flex-direction: column; max-width: 720px; }
+.timeline-item { display: flex; gap: 20px; }
+.timeline-rail { display: flex; flex-direction: column; align-items: center; }
+.timeline-dot {
+  width: 40px; height: 40px;
+  border-radius: 50%;
+  background: var(--paper-raised);
+  border: 2px solid var(--line);
+  display: grid; place-items: center;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+  transition: all 0.2s ease;
+}
+.timeline-item:hover .timeline-dot { border-color: var(--coral); color: var(--coral); }
+.timeline-dot.done { background: var(--teal); border-color: var(--teal); color: #fff; }
+.timeline-line { width: 2px; flex: 1; background: var(--line); margin: 2px 0; min-height: 24px; }
+
+.timeline-card {
+  flex: 1;
+  margin-bottom: 20px;
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.timeline-day { font-family: var(--font-mono); font-size: 0.72rem; color: var(--coral); font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; }
+.timeline-card h3 { font-size: 1.05rem; }

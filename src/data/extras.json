@@ -1,0 +1,29 @@
+{
+  "introTemplates": [
+    {
+      "id": "t1",
+      "category": "College Introduction",
+      "context": "Friends, Faculty, Events",
+      "template": "Hi, my name is __. I am currently pursuing __ at __. I am interested in __. I enjoy learning __, and outside academics I like __."
+    },
+    {
+      "id": "t2",
+      "category": "Interview Introduction",
+      "context": "Software Engineer Fresher",
+      "template": "Good morning, my name is __. I have completed my degree in __ from __. I have hands-on experience in __ through projects like __. I am looking forward to contributing as a __ at your company."
+    },
+    {
+      "id": "t3",
+      "category": "Normal Social Introduction",
+      "context": "Casual, new people",
+      "template": "Hi, I'm __. I'm from __, and currently I'm into __. In my free time I enjoy __."
+    }
+  ],
+  "speakingChallenges": [
+    { "id": "s1", "topic": "Introduce yourself", "duration": "1 minute" },
+    { "id": "s2", "topic": "Explain your project", "duration": "3 minutes" },
+    { "id": "s3", "topic": "Talk about your hobbies", "duration": "1 minute" },
+    { "id": "s4", "topic": "Describe your day", "duration": "1 minute" },
+    { "id": "s5", "topic": "Explain a technology you like", "duration": "3 minutes" }
+  ]
+}

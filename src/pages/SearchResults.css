@@ -1,0 +1,14 @@
+.search-page { padding: 44px 24px 80px; }
+.search-page h1 { font-size: 1.8rem; margin: 10px 0 4px; }
+.result-section { margin-top: 30px; }
+.result-section h2 { font-size: 1.1rem; margin-bottom: 12px; color: var(--ink-soft); }
+.result-list { display: flex; flex-direction: column; gap: 8px; }
+.result-row {
+  display: flex; align-items: center; gap: 12px;
+  padding: 14px 18px;
+  border-radius: var(--radius-sm);
+  border: 1.5px solid var(--line);
+  background: var(--paper-raised);
+  font-size: 0.9rem;
+}
+.result-row:hover { border-color: var(--coral); }

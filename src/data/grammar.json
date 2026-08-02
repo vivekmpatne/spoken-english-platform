@@ -1,0 +1,3318 @@
+[
+  {
+    "id": "g1",
+    "day": 1,
+    "playlist": "Zero to Hero",
+    "topic": "Is / Am / Are Basics",
+    "category": "Tenses",
+    "hindi": "Is Am Are ka matlab aur use",
+    "hinglishMeaning": "Is = hai (third person), Am = hu (main ke saath), Are = ho/hain (tum/hum/ve)",
+    "rules": [
+      "I + am = main + hu",
+      "He/She/It/Name + is = wo + hai",
+      "You/We/They + are = tum/hum/ve + ho/hai"
+    ],
+    "examples": [
+      "I am a student. (Main ek student hu.)",
+      "She is happy. (Wo khush hai.)",
+      "They are coming. (Ve aa rahe hain.)"
+    ],
+    "keywords": [
+      "is",
+      "am",
+      "are",
+      "present tense",
+      "basics"
+    ]
+  },
+  {
+    "id": "g2",
+    "day": 1,
+    "playlist": "Zero to Hero",
+    "topic": "Is/Am/Are + ING (Present Continuous)",
+    "category": "Tenses",
+    "hindi": "Is Am Are ke saath ING form kab use kare",
+    "hinglishMeaning": "Jab kaam abhi chal raha ho tab Is/Am/Are + ING use karo",
+    "rules": [
+      "Is/Am/Are + V1+ING = abhi chal raha hai",
+      "Is + Ving = wo kar raha hai",
+      "Am + Ving = main kar raha hu",
+      "Are + Ving = tum/ve kar rahe ho/hain"
+    ],
+    "examples": [
+      "I am eating. (Main kha raha hu.)",
+      "She is studying. (Wo padh rahi hai.)",
+      "They are playing. (Ve khel rahe hain.)"
+    ],
+    "keywords": [
+      "ing",
+      "continuous",
+      "present continuous",
+      "eating",
+      "studying"
+    ]
+  },
+  {
+    "id": "g3",
+    "day": 2,
+    "playlist": "Zero to Hero",
+    "topic": "Was / Were Basics",
+    "category": "Tenses",
+    "hindi": "Was Were ka matlab aur use",
+    "hinglishMeaning": "Was = tha/thi (I/He/She/It ke saath), Were = the/thi (You/We/They ke saath)",
+    "rules": [
+      "I/He/She/It + was = main/wo + tha/thi",
+      "You/We/They + were = tum/hum/ve + the/thi",
+      "Was/Were = past of is/am/are"
+    ],
+    "examples": [
+      "I was happy. (Main khush tha.)",
+      "They were late. (Ve late the.)",
+      "She was beautiful. (Wo sundar thi.)"
+    ],
+    "keywords": [
+      "was",
+      "were",
+      "past tense",
+      "tha",
+      "thi"
+    ]
+  },
+  {
+    "id": "g4",
+    "day": 2,
+    "playlist": "Zero to Hero",
+    "topic": "Was/Were + ING (Past Continuous)",
+    "category": "Tenses",
+    "hindi": "Was Were ke saath ING form ka use",
+    "hinglishMeaning": "Jab past mein koi kaam chal raha tha tab Was/Were + ING use karo",
+    "rules": [
+      "Was/Were + V1+ING = us waqt chal raha tha",
+      "Was + Ving = wo kar raha tha",
+      "Were + Ving = ve kar rahe the"
+    ],
+    "examples": [
+      "I was eating. (Main kha raha tha.)",
+      "They were playing. (Ve khel rahe the.)",
+      "She was sleeping. (Wo so rahi thi.)"
+    ],
+    "keywords": [
+      "was",
+      "were",
+      "ing",
+      "past continuous",
+      "kha raha tha"
+    ]
+  },
+  {
+    "id": "g5",
+    "day": 3,
+    "playlist": "Zero to Hero",
+    "topic": "Do / Does / Did Basics",
+    "category": "Question Formation",
+    "hindi": "Do Does Did ka matlab aur use",
+    "hinglishMeaning": "Do/Does = present ke questions/negatives, Did = past ke questions/negatives",
+    "rules": [
+      "Do = present me I/You/We/They ke saath",
+      "Does = present me He/She/It ke saath",
+      "Did = past me sab ke saath",
+      "Do/Does/Did = helping verbs (questions aur negatives)"
+    ],
+    "examples": [
+      "Do you like coffee? (Kya tumhe coffee pasand hai?)",
+      "Does she speak English? (Kya wo English bolti hai?)",
+      "Did you come? (Kya tum aaye the?)"
+    ],
+    "keywords": [
+      "do",
+      "does",
+      "did",
+      "questions",
+      "negatives"
+    ]
+  },
+  {
+    "id": "g6",
+    "day": 3,
+    "playlist": "Zero to Hero",
+    "topic": "Simple Present Tense (Habit Rule)",
+    "category": "Tenses",
+    "hindi": "Habit rule - roz ka kaam batana",
+    "hinglishMeaning": "Jo kaam roz ya regularly hota hai usme He/She/It ke saath V1+es lagao",
+    "rules": [
+      "I/You/We/They + V1 = hum roz ye karte hain",
+      "He/She/It + V1+es/s = wo roz ye karta/karti hai",
+      "Negative: don't (I/You/We/They), doesn't (He/She/It)",
+      "Question: Do/Does + Subject + V1"
+    ],
+    "examples": [
+      "I eat rice every day. (Main roz chawal khata hu.)",
+      "She goes to school. (Wo school jaati hai.)",
+      "He doesn't smoke. (Wo cigarette nahi peeta.)"
+    ],
+    "keywords": [
+      "habit",
+      "daily",
+      "every day",
+      "routine",
+      "V1",
+      "V1+es"
+    ]
+  },
+  {
+    "id": "g7",
+    "day": 4,
+    "playlist": "Zero to Hero",
+    "topic": "Simple Past Tense (V2 Rule)",
+    "category": "Tenses",
+    "hindi": "Past me kiya gaya kaam batana",
+    "hinglishMeaning": "Past me kaam karne ke liye V2 use karo, negative/question me Did/Didn't ke saath V1",
+    "rules": [
+      "All subjects + V2 = past me kiya",
+      "Positive: Subject + V2 (no helping verb)",
+      "Negative: didn't + V1",
+      "Question: Did + Subject + V1"
+    ],
+    "examples": [
+      "I ate rice. (Maine chawal khaye.)",
+      "She went to school. (Wo school gayi thi.)",
+      "He didn't come. (Wo nahi aaya.)"
+    ],
+    "keywords": [
+      "V2",
+      "past",
+      "simple past",
+      "did",
+      "didn't"
+    ]
+  },
+  {
+    "id": "g8",
+    "day": 5,
+    "playlist": "Zero to Hero",
+    "topic": "Present Perfect (Have/Has + V3)",
+    "category": "Tenses",
+    "hindi": "Kaam ho chuka hai batana",
+    "hinglishMeaning": "Jab kaam ho chuka ho aur uska result abhi bhi relevant ho tab Have/Has + V3 use karo",
+    "rules": [
+      "I/You/We/They + have + V3",
+      "He/She/It + has + V3",
+      "Meaning: kaam ho chuka hai, result abhi visible hai",
+      "Negative: haven't/hasn't + V3"
+    ],
+    "examples": [
+      "I have eaten. (Maine kha liya hai.)",
+      "She has come. (Wo aa chuki hai.)",
+      "They haven't paid. (Unhone fee nahi di hai.)"
+    ],
+    "keywords": [
+      "have",
+      "has",
+      "V3",
+      "present perfect",
+      "ho chuka"
+    ]
+  },
+  {
+    "id": "g9",
+    "day": 5,
+    "playlist": "Zero to Hero",
+    "topic": "Since vs For",
+    "category": "Conditionals",
+    "hindi": "Since aur For ka difference",
+    "hinglishMeaning": "Since = jab se (specific point), For = kitne samay se (duration)",
+    "rules": [
+      "Since + specific point of time (since 2020, since Monday)",
+      "For + duration of time (for 2 years, for 3 hours)",
+      "Both used with Present Perfect and Present Perfect Continuous"
+    ],
+    "examples": [
+      "I have been living here since 2020. (Main 2020 se yahan reh raha hu.)",
+      "I have been studying for 2 hours. (Main 2 ghante se padh raha hu.)"
+    ],
+    "keywords": [
+      "since",
+      "for",
+      "duration",
+      "specific time",
+      "point"
+    ]
+  },
+  {
+    "id": "g10",
+    "day": 6,
+    "playlist": "Zero to Hero",
+    "topic": "Present Perfect Continuous",
+    "category": "Conjunctions",
+    "hindi": "Kaam shuru hua aur abhi bhi chal raha hai",
+    "hinglishMeaning": "Jab kaam pehle shuru hua aur abhi bhi chal raha ho tab Have/Has + Been + ING use karo",
+    "rules": [
+      "Subject + have/has + been + V1+ING",
+      "Since/For + time = kitne samay se chal raha hai",
+      "Negative: haven't/hasn't been + V1+ING"
+    ],
+    "examples": [
+      "I have been studying for 2 hours. (Main 2 ghante se padh raha hu.)",
+      "She has been crying since morning. (Wo subah se ro rahi hai.)"
+    ],
+    "keywords": [
+      "been",
+      "ing",
+      "since",
+      "for",
+      "continuous",
+      "chal raha"
+    ]
+  },
+  {
+    "id": "g11",
+    "day": 7,
+    "playlist": "Zero to Hero",
+    "topic": "Past Perfect (Had + V3)",
+    "category": "Tenses",
+    "hindi": "Do past events me pehle wala",
+    "hinglishMeaning": "Jab past mein do kaam hue aur ek pehle wala batana ho tab Had + V3 use karo",
+    "rules": [
+      "All subjects + had + V3",
+      "Pehle wala kaam = Had + V3",
+      "Baad wala kaam = Simple Past (V2)",
+      "Both past mein hue the, lekin ek pehle"
+    ],
+    "examples": [
+      "I had eaten before she came. (Maine kha liya tha wo aane se pehle.)",
+      "They had left when I arrived. (Ve nikal chuke the jab main pahuncha.)"
+    ],
+    "keywords": [
+      "had",
+      "V3",
+      "past perfect",
+      "earlier",
+      "pehle"
+    ]
+  },
+  {
+    "id": "g12",
+    "day": 7,
+    "playlist": "Zero to Hero",
+    "topic": "Past Perfect Continuous",
+    "category": "Tenses",
+    "hindi": "Past mein kaam chal raha tha aur tab tak",
+    "hinglishMeaning": "Past mein koi kaam chal raha tha aur doosra event aaya tab Had + Been + ING use karo",
+    "rules": [
+      "All subjects + had + been + V1+ING",
+      "For/Since + time = kitne samay se chal raha tha",
+      "Past ka present perfect continuous"
+    ],
+    "examples": [
+      "I had been waiting for 2 hours when she came. (Wo aane tak main 2 ghante se wait kar raha tha.)"
+    ],
+    "keywords": [
+      "had been",
+      "ing",
+      "past perfect continuous",
+      "waiting"
+    ]
+  },
+  {
+    "id": "g13",
+    "day": 8,
+    "playlist": "Zero to Hero",
+    "topic": "Used To (Past Habit)",
+    "category": "Tenses",
+    "hindi": "Pehle aadat thi ab nahi",
+    "hinglishMeaning": "Jo kaam pehle regularly hota tha par ab nahi hota usme Used To + V1 use karo",
+    "rules": [
+      "Subject + used to + V1 = pehle ye karta tha",
+      "Negative: didn't use to + V1 (NOT: used to not)",
+      "Question: Did + Subject + use to + V1",
+      "DID aane par USED→USE"
+    ],
+    "examples": [
+      "I used to smoke. (Main pehle cigarette peeta tha.)",
+      "She used to love me. (Wo pehle mujhse pyaar karti thi.)",
+      "Did you use to smoke? (Kya tum pehle cigarette peete the?)"
+    ],
+    "keywords": [
+      "used to",
+      "past habit",
+      "pehle",
+      "aadat"
+    ]
+  },
+  {
+    "id": "g14",
+    "day": 8,
+    "playlist": "Zero to Hero",
+    "topic": "CAN / COULD (Modal Verbs)",
+    "category": "Modal Verbs",
+    "hindi": "Can Could ka matlab aur use",
+    "hinglishMeaning": "Can = abhi kar sakta hu, Could = pehle kar sakta tha, dono ke baad V1",
+    "rules": [
+      "Can + V1 = abhi kar sakta hu (present ability/permission)",
+      "Could + V1 = pehle kar sakta tha (past ability)",
+      "Can/Could + V1 = request bhi",
+      "After Can/Could always V1 (no es/s/ed/ing)"
+    ],
+    "examples": [
+      "I can speak English. (Main English bol sakta hu.)",
+      "I could swim when I was 10. (Main 10 saal ki umar mein tair sakta tha.)",
+      "Can you help me? (Kya tum meri madad kar sakte ho?)"
+    ],
+    "keywords": [
+      "can",
+      "could",
+      "ability",
+      "permission",
+      "request"
+    ]
+  },
+  {
+    "id": "g15",
+    "day": 9,
+    "playlist": "Zero to Hero",
+    "topic": "HAD / HAD TO / HAD BEEN",
+    "category": "Advanced Spoken Rules",
+    "hindi": "HAD ke 3 alag uses",
+    "hinglishMeaning": "Had+noun = khaya/piya, Had To+V1 = karna pada, Had+V3 = pehle kar chuka tha",
+    "rules": [
+      "HAD + noun = past of have (kaam kiya: I had food)",
+      "HAD TO + V1 = majboori past mein (karna pada)",
+      "HAD + V3 = past perfect (do past events me pehle wala)"
+    ],
+    "examples": [
+      "I had breakfast. (Maine nashta kiya.)",
+      "I had to wake up early. (Mujhe jaldi uthna pada.)",
+      "I had eaten before she came. (Maine kha liya tha wo aane se pehle.)"
+    ],
+    "keywords": [
+      "had",
+      "had to",
+      "had been",
+      "majboori",
+      "pehle"
+    ]
+  },
+  {
+    "id": "g16",
+    "day": 10,
+    "playlist": "Zero to Hero",
+    "topic": "Future Tense - WILL",
+    "category": "Tenses",
+    "hindi": "Will se future batana",
+    "hinglishMeaning": "Will = 100% sure future, sab ke saath same form, baad mein V1",
+    "rules": [
+      "All subjects + will + V1 = future mein karega",
+      "Will = 100% certainty",
+      "Negative: will not / won't + V1",
+      "Question: Will + Subject + V1"
+    ],
+    "examples": [
+      "I will come. (Main aaunga.)",
+      "India will win. (India jeetegi.)",
+      "Will you help me? (Kya tum meri madad karoge?)"
+    ],
+    "keywords": [
+      "will",
+      "future",
+      "certainty",
+      "karega"
+    ]
+  },
+  {
+    "id": "g17",
+    "day": 10,
+    "playlist": "Zero to Hero",
+    "topic": "MAY / MIGHT (Possibility)",
+    "category": "Modal Verbs",
+    "hindi": "May aur Might ka difference",
+    "hinglishMeaning": "May = shayad hoga (achhe chances), Might = ho sakta hai (kam chances)",
+    "rules": [
+      "May + V1 = high possibility (achhe chances)",
+      "Might + V1 = low possibility (kam chances)",
+      "Both mean future possibility, not certainty",
+      "Probability: Will > May > Might"
+    ],
+    "examples": [
+      "I may come tomorrow. (Shayad main kal aaunga.)",
+      "I might get a job. (Ho sakta hai mujhe job mil jaaye.)"
+    ],
+    "keywords": [
+      "may",
+      "might",
+      "possibility",
+      "chances",
+      "shayad"
+    ]
+  },
+  {
+    "id": "g18",
+    "day": 11,
+    "playlist": "Zero to Hero",
+    "topic": "SHALL - Formal English",
+    "category": "Modal Verbs",
+    "hindi": "Shall ka formal use",
+    "hinglishMeaning": "Shall = formal English, offers/suggestions mein (Shall I/We), documents mein",
+    "rules": [
+      "Shall = formal/legal English mein use hota hai",
+      "Shall I/We = offer/suggestion (Kya main karu? Kya hum karein?)",
+      "In spoken English, WILL replaces SHALL almost everywhere",
+      "Documents/contracts mein Shall ka use"
+    ],
+    "examples": [
+      "Shall I help you? (Kya main madad karu?)",
+      "Shall we start? (Kya hum start karein?)",
+      "The tenant shall pay rent. (Kiraayedaar ko kiraaya dena hoga.)"
+    ],
+    "keywords": [
+      "shall",
+      "formal",
+      "offer",
+      "suggestion",
+      "legal"
+    ]
+  },
+  {
+    "id": "g19",
+    "day": 11,
+    "playlist": "Zero to Hero",
+    "topic": "WILL BE / MAY BE / MIGHT BE",
+    "category": "Modal Verbs",
+    "hindi": "Be ke saath future possibilities",
+    "hinglishMeaning": "MAYBE (ek word) = shayad, MAY BE (do words) = future possibility",
+    "rules": [
+      "Will Be + No Action = future state (busy/late/happy)",
+      "May Be + No Action = future possibility state",
+      "Might Be + No Action = future low possibility state",
+      "BE ke baad: No Action Word, ING, ya V3 - sirf ye 3 rules"
+    ],
+    "examples": [
+      "I will be late. (Main late hunga.)",
+      "She may be busy. (Wo busy hogi shayad.)",
+      "He might be sleeping. (Wo so raha hoga shayad.)"
+    ],
+    "keywords": [
+      "will be",
+      "may be",
+      "might be",
+      "no action",
+      "state"
+    ]
+  },
+  {
+    "id": "g20",
+    "day": 12,
+    "playlist": "Zero to Hero",
+    "topic": "MUST HAVE / MAY HAVE / MIGHT HAVE",
+    "category": "Modal Verbs",
+    "hindi": "Past mein kya hua hoga guessing",
+    "hinglishMeaning": "Past mein guess karna ho to Must Have=100%, May Have=high, Might Have=low chance",
+    "rules": [
+      "Must Have + V3 = pakka kiya hoga (100% past certainty)",
+      "May Have + V3 = shayad kiya hoga (high past possibility)",
+      "Might Have + V3 = ho sakta hai kiya hoga (low past possibility)",
+      "Past ka probability scale: Must Have > May Have > Might Have"
+    ],
+    "examples": [
+      "He must have slept. (Wo pakka so gaya hoga.)",
+      "She may have forgotten. (Wo bhool gayi hogi shayad.)",
+      "They might have missed the train. (Ve train miss kar gaye honge shayad.)"
+    ],
+    "keywords": [
+      "must have",
+      "may have",
+      "might have",
+      "V3",
+      "past guessing"
+    ]
+  },
+  {
+    "id": "g21",
+    "day": 12,
+    "playlist": "Zero to Hero",
+    "topic": "WILL HAVE + V3 (Future Completed)",
+    "category": "Tenses",
+    "hindi": "Tab tak ho chuka hoga",
+    "hinglishMeaning": "Jab tak doosra kaam hoga, pehla kaam ho chuka hoga - Will Have + V3",
+    "rules": [
+      "Will Have + V3 = future mein kaam ho chuka hoga",
+      "Structure: By the time + Subject + V1/Vs, Subject + Will Have + V3",
+      "First event = By the time + Present, Second event = Will Have + V3"
+    ],
+    "examples": [
+      "By the time you come back, your car will have got repaired. (Jab tak tum wapas aaoge, car repair ho chuki hogi.)"
+    ],
+    "keywords": [
+      "will have",
+      "V3",
+      "future completed",
+      "by the time"
+    ]
+  },
+  {
+    "id": "g22",
+    "day": 13,
+    "playlist": "Zero to Hero",
+    "topic": "WILL BE + ING / MAY BE + ING / MUST BE + ING",
+    "category": "Modal Verbs",
+    "hindi": "Future mein kaam chal raha hoga",
+    "hinglishMeaning": "Future mein kaam chal raha hoga batane ke liye Will/May/Might/Must Be + ING",
+    "rules": [
+      "Will Be + ING = kar raha hoga (100% sure)",
+      "May Be + ING = shayad kar raha ho (high possibility)",
+      "Might Be + ING = ho sakta hai kar raha ho (low possibility)",
+      "Must Be + ING = pakka kar raha hoga (strong certainty)"
+    ],
+    "examples": [
+      "I will be studying at 2 PM. (Main 2 baje padh raha hunga.)",
+      "She may be cooking. (Wo shayad khana bana rahi hogi.)",
+      "She must be talking to Rahul. (Wo pakka Rahul se baat kar rahi hogi.)"
+    ],
+    "keywords": [
+      "will be ing",
+      "may be ing",
+      "might be ing",
+      "must be ing",
+      "ongoing"
+    ]
+  },
+  {
+    "id": "g23",
+    "day": 14,
+    "playlist": "Zero to Hero",
+    "topic": "IS/AM/ARE in Future (Pre-Planned)",
+    "category": "Tenses",
+    "hindi": "Planned future Is/Am/Are se batana",
+    "hinglishMeaning": "Will = sudden future, Is/Am/Are+ING = planned future (pehle se decide)",
+    "rules": [
+      "IS/AM/ARE + V1+ING + Future Time = pre-planned future",
+      "WILL = sudden decision (abhi decide kiya)",
+      "IS/AM/ARE + ING = already decided before speaking"
+    ],
+    "examples": [
+      "I am getting married in March. (Main March mein shaadi kar raha hu.)",
+      "Papa is coming in the evening. (Papa shaam ko aa rahe hain.)",
+      "I am buying a car on 5th March. (Main 5 March ko car kharid raha hu.)"
+    ],
+    "keywords": [
+      "is",
+      "am",
+      "are",
+      "future",
+      "pre-planned",
+      "already decided"
+    ]
+  },
+  {
+    "id": "g24",
+    "day": 14,
+    "playlist": "Zero to Hero",
+    "topic": "GOING TO vs ABOUT TO",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Going To aur About To ka difference",
+    "hinglishMeaning": "Going To = karne wala hu (planned), About To = karne hi wala hu (abhi)",
+    "rules": [
+      "Going To + V1 = karne wala hai (future intention, time remains)",
+      "About To + V1 = karne hi wala hai (immediate, almost now)",
+      "Going To = Gonna (informal spoken)",
+      "Was/Were + About To + V1 = karne wala tha (past)"
+    ],
+    "examples": [
+      "I am going to buy a car. (Main car kharidne wala hu.)",
+      "I am about to tell you something. (Main abhi tumhe kuch batane wala hu.)",
+      "I was about to call you. (Main tumhe call karne hi wala tha.)"
+    ],
+    "keywords": [
+      "going to",
+      "gonna",
+      "about to",
+      "immediate",
+      "intention"
+    ]
+  },
+  {
+    "id": "g25",
+    "day": 15,
+    "playlist": "Zero to Hero",
+    "topic": "WOULD RATHER / IT IS HIGH TIME / I WISH",
+    "category": "Modal Verbs",
+    "hindi": "V2 ka future/unreal use",
+    "hinglishMeaning": "V2 = past nahi bhi ho sakta - preference/advice/wish/imaginary mein",
+    "rules": [
+      "Would Rather + Subject + V2 = main chahunga ki...",
+      "It is high time + Subject + V2 = ab waqt aa gaya hai ki...",
+      "I wish + Subject + V2 = kaash...",
+      "V2 does NOT always mean past - imaginary/wish/preference"
+    ],
+    "examples": [
+      "I would rather you spoke English. (Main chahunga ki tum English bolo.)",
+      "It is high time we started. (Ab GD shuru kar deni chahiye.)",
+      "I wish I knew the answer. (Kaash mujhe answer pata hota.)"
+    ],
+    "keywords": [
+      "would rather",
+      "high time",
+      "I wish",
+      "V2",
+      "kaash",
+      "chahunga"
+    ]
+  },
+  {
+    "id": "g26",
+    "day": 15,
+    "playlist": "Zero to Hero",
+    "topic": "Second Conditional (Imaginary Future)",
+    "category": "Modal Verbs",
+    "hindi": "Agar aisa hota to main aisa karta",
+    "hinglishMeaning": "Agar aisa hota to aisa karta = If + V2, Would + V1 (imaginary/unreal)",
+    "rules": [
+      "If + V2, Would + V1 = imaginary/unreal future",
+      "In Second Conditional, use WERE with everyone (I were, He were, She were)",
+      "Real Future: If + Present, Will + V1",
+      "Imaginary Future: If + V2, Would + V1"
+    ],
+    "examples": [
+      "If I got this job, I would work very hard. (Agar mujhe ye job mil jaati to main mehnat karta.)",
+      "If I won a lottery, I would buy a car. (Agar lottery lag jaati to car kharidta.)",
+      "If I were rich, I would buy a Ferrari. (Agar main ameer hota to Ferrari kharidta.)"
+    ],
+    "keywords": [
+      "if",
+      "would",
+      "V2",
+      "imaginary",
+      "unreal",
+      "what if"
+    ]
+  },
+  {
+    "id": "g27",
+    "day": 16,
+    "playlist": "Zero to Hero",
+    "topic": "Conditional Rules Complete (Zero/First/Second/Third)",
+    "category": "Conditionals",
+    "hindi": "4 conditional types",
+    "hinglishMeaning": "Zero=truth, First=real future, Second=imaginary, Third=past regret",
+    "rules": [
+      "Zero: If + Present, Present (universal truth)",
+      "First: If + Present, Will + V1 (real future)",
+      "Second: If + V2, Would + V1 (imaginary future)",
+      "Third: If + Had + V3, Would Have + V3 (past regret)"
+    ],
+    "examples": [
+      "If you touch fire, you get burned. (Aag chhoge to jaloge hi.)",
+      "If you study, you will pass. (Padhoge to pass ho jaoge.)",
+      "If I had known, I would have come. (Agar pata hota to aa jaata.)"
+    ],
+    "keywords": [
+      "conditional",
+      "zero",
+      "first",
+      "second",
+      "third",
+      "if"
+    ]
+  },
+  {
+    "id": "g28",
+    "day": 17,
+    "playlist": "Zero to Hero",
+    "topic": "Question Tags",
+    "category": "Question Formation",
+    "hindi": "...na? ...hai na? confirmation ke liye",
+    "hinglishMeaning": "Positive sentence ke baad negative tag, negative ke baad positive tag - always opposite",
+    "rules": [
+      "Positive statement → Negative tag",
+      "Negative statement → Positive tag",
+      "I am → aren't I (exception)",
+      "Used to → didn't you (NOT usedn't you)",
+      "Always opposite - positive to negative, negative to positive"
+    ],
+    "examples": [
+      "You are coming, aren't you? (Tum aa rahe ho na?)",
+      "She isn't angry, is she? (Wo gussa nahi hai na?)",
+      "I am improving, aren't I? (Main improve ho raha hu na?)"
+    ],
+    "keywords": [
+      "question tag",
+      "confirmation",
+      "na",
+      "hai na",
+      "aren't you"
+    ]
+  },
+  {
+    "id": "g29",
+    "day": 18,
+    "playlist": "Zero to Hero",
+    "topic": "Neither/Nor, Either/Or, Neither Of, Either Of",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Na ye na wo / Ya to ye ya wo",
+    "hinglishMeaning": "Neither Of/Either Of = hamesha singular verb, Neither...Nor/Either...Or = verb subject after NOR/OR",
+    "rules": [
+      "Neither...Nor = na ye na wo (donon nahi)",
+      "Either...Or = ya ye ya wo (ek to hoga)",
+      "Neither Of + singular verb (donon me se koi nahi)",
+      "Either Of + singular verb (donon me se ek)",
+      "Verb follows subject after NOR/OR"
+    ],
+    "examples": [
+      "She neither eats nor drinks. (Na wo khati hai na peeti hai.)",
+      "Neither of them knows me. (Donon me se koi mujhe nahi jaanta.)",
+      "Either of you can help me. (Tum dono me se koi ek meri help kar sakta hai.)"
+    ],
+    "keywords": [
+      "neither",
+      "nor",
+      "either",
+      "or",
+      "na ye na wo",
+      "singular verb"
+    ]
+  },
+  {
+    "id": "g30",
+    "day": 19,
+    "playlist": "Zero to Hero",
+    "topic": "Also / Either / So / Neither (Advanced Spoken)",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Bhi / Bhi nahi ke advanced forms",
+    "hinglishMeaning": "Also=positive bhi, Either=negative bhi nahi, So+TV+Sub=main bhi, Neither+TV+Sub=main bhi nahi",
+    "rules": [
+      "Also = bhi (positive only: I am also going)",
+      "Either = bhi nahi (negative only: I don't smoke either)",
+      "So + TV + Subject = main bhi (advanced positive: So am I)",
+      "Neither + TV + Subject = main bhi nahi (advanced negative: Neither am I)",
+      "Never use ALSO in negative sentences"
+    ],
+    "examples": [
+      "I am also coming. (Main bhi aa raha hu.)",
+      "I am not going either. (Main bhi nahi ja raha.)",
+      "I am happy. → So am I. (Main bhi.)",
+      "I am not happy. → Neither am I. (Main bhi nahi.)"
+    ],
+    "keywords": [
+      "also",
+      "either",
+      "so am I",
+      "neither am I",
+      "bhi",
+      "bhi nahi"
+    ]
+  },
+  {
+    "id": "g31",
+    "day": 20,
+    "playlist": "Zero to Hero",
+    "topic": "BE / BEING / BEEN - Forms of BE",
+    "category": "Advanced Spoken Rules",
+    "hindi": "BE ki 4 forms aur unka use",
+    "hinglishMeaning": "Is/Am/Are→Being, Has/Have→Been, Will/Can→Be, Was/Were→alone",
+    "rules": [
+      "V1: Be (will be, can be, should be)",
+      "V2: Was/Were (alone use)",
+      "V3: Been (has been, have been, had been)",
+      "V4: Being (is being, are being, am being)",
+      "Is/Am/Are + Being, Have/Has + Been, Will/Can/Should + Be"
+    ],
+    "examples": [
+      "Tea is being made. (Chai ban rahi hai.)",
+      "Tea has been made. (Chai ban gayi hai.)",
+      "Tea will be made. (Chai banegi.)"
+    ],
+    "keywords": [
+      "be",
+      "being",
+      "been",
+      "was",
+      "were",
+      "forms"
+    ]
+  },
+  {
+    "id": "g32",
+    "day": 20,
+    "playlist": "Zero to Hero",
+    "topic": "Passive Voice - BE + V3 (Without Doer English)",
+    "category": "Passive Voice",
+    "hindi": "Doer nahi dikhaya jata",
+    "hinglishMeaning": "BE+V3 = doer nahi important, kaam pe zyada focus",
+    "rules": [
+      "BE + V3 = Passive Voice (Without Doer English)",
+      "Is/Am/Are + V3 = habit passive (chai banti hai)",
+      "Is/Am/Are + Being + V3 = present continuous passive (chai ban rahi hai)",
+      "Was/Were + V3 = past passive (chai bani thi)",
+      "Was/Were + Being + V3 = past continuous passive (chai ban rahi thi)",
+      "Has/Have + Been + V3 = present perfect passive (chai ban gayi hai)",
+      "Will + Be + V3 = future passive (chai banegi)",
+      "Can/Should/May/Must + Be + V3 = modal passive"
+    ],
+    "examples": [
+      "Tea is made. (Chai banti hai.)",
+      "Tea is being made. (Chai ban rahi hai.)",
+      "Tea has been made. (Chai ban gayi hai.)",
+      "Tea was made. (Chai bani thi.)",
+      "Tea will be made. (Chai banegi.)"
+    ],
+    "keywords": [
+      "passive voice",
+      "BE",
+      "V3",
+      "being",
+      "been",
+      "without doer"
+    ]
+  },
+  {
+    "id": "g33",
+    "day": 21,
+    "playlist": "Zero to Hero",
+    "topic": "Passive with Me/Him/Her/Us/Them",
+    "category": "Passive Voice",
+    "hindi": "Object pronouns passive mein",
+    "hinglishMeaning": "Passive mein object pronoun subject form mein badal jaata hai (Me→I, Him→He)",
+    "rules": [
+      "Me → I (I am being taught)",
+      "Him → He (He is being treated)",
+      "Her → She (She is being invited)",
+      "Us → We (We are being given)",
+      "Them → They (They are being called)"
+    ],
+    "examples": [
+      "Samir sir is teaching me. → I am being taught. (Mujhe padhaya ja raha hai.)",
+      "She has invited me. → I have been invited. (Mujhe invite kiya gaya hai.)"
+    ],
+    "keywords": [
+      "me",
+      "him",
+      "her",
+      "passive",
+      "object pronoun",
+      "subject form"
+    ]
+  },
+  {
+    "id": "g34",
+    "day": 22,
+    "playlist": "Zero to Hero",
+    "topic": "Passive Voice Exceptions - LET/MAKE/Getting",
+    "category": "Passive Voice",
+    "hindi": "Passive ke VIP exceptions",
+    "hinglishMeaning": "LET→Be+V3, MAKE→Made+To+V1, Perfect Continuous→Getting+V3",
+    "rules": [
+      "LET Passive: Let + Object + Be + V3 (Let the door be closed)",
+      "MAKE Passive: Subject + Be + Made + To + V1 (I am made to laugh)",
+      "Present Perfect Continuous Passive: Has/Have Been + Getting + V3",
+      "MAKE passive mein TO lagta hai (important difference)"
+    ],
+    "examples": [
+      "Let me close the door. → Let the door be closed. (Darwaza band ho jane do.)",
+      "She makes me laugh. → I am made to laugh. (Mujhe hasaya jata hai.)",
+      "My car has been getting repaired. (Meri car repair ho rahi hai.)"
+    ],
+    "keywords": [
+      "let",
+      "make",
+      "getting",
+      "to",
+      "passive exception"
+    ]
+  },
+  {
+    "id": "g35",
+    "day": 23,
+    "playlist": "Zero to Hero",
+    "topic": "Would Have / Could Have / Should Have / Must Have + BEEN",
+    "category": "Modal Verbs",
+    "hindi": "BE → BEEN automatic",
+    "hinglishMeaning": "Would/Could/Should/May/Must Have + BEEN → Been+NoAction ya Been+V3 (passive)",
+    "rules": [
+      "Would Have Been + No Action (You should have been angry)",
+      "Would Have Been + V3 = passive (Tea should have been made)",
+      "BE → BEEN because these modals always take V3",
+      "Would Have Been + ING = not used here"
+    ],
+    "examples": [
+      "You should have been angry. (Tumhe gussa hona chahiye tha.)",
+      "Tea should have been made. (Chai ban jani chahiye thi.)",
+      "The project should have been submitted. (Project submit ho jana chahiye tha.)"
+    ],
+    "keywords": [
+      "would have been",
+      "could have been",
+      "should have been",
+      "been",
+      "V3"
+    ]
+  },
+  {
+    "id": "g36",
+    "day": 24,
+    "playlist": "Zero to Hero",
+    "topic": "Articles - A, An, The",
+    "category": "Articles",
+    "hindi": "A/An/The ka use situation ke hisaab se",
+    "hinglishMeaning": "A/An = kaunsa nahi pata, The = dono pata hai, Uncountable mein A/An nahi",
+    "rules": [
+      "A/An = listener doesn't know which one",
+      "The = speaker + listener both know which one",
+      "First mention = A/An, Already known = The",
+      "Uncountable (money/tea/water): no A/An",
+      "The + Uncountable = jab specific ho",
+      "Countable = A/An/The sab use ho sakte hain"
+    ],
+    "examples": [
+      "I have found a boy for you. (Ek ladka mila - listener nahi jaanta kaunsa)",
+      "Give me the chair. (Wo chair de do - dono jaante hain kaunsi)",
+      "The money you gave me. (Wo paise jo tumne diye the - specific)"
+    ],
+    "keywords": [
+      "a",
+      "an",
+      "the",
+      "articles",
+      "countable",
+      "uncountable"
+    ]
+  },
+  {
+    "id": "g37",
+    "day": 24,
+    "playlist": "Zero to Hero",
+    "topic": "How Much vs How Many",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Kitna vs Kitne",
+    "hinglishMeaning": "How Much = uncountable (kitna), How Many = countable (kitne)",
+    "rules": [
+      "How Much + Uncountable = kitna (sugar/bread/money)",
+      "How Many + Countable = kitne (books/friends/teeth)",
+      "Bread = uncountable (How much bread, NOT How many bread)",
+      "Slices of bread = countable (How many slices)"
+    ],
+    "examples": [
+      "How much sugar is there? (Kitni sugar hai?)",
+      "How many books do you have? (Kitni books hain?)",
+      "How many teeth were there? (Kitne daant the?)"
+    ],
+    "keywords": [
+      "how much",
+      "how many",
+      "countable",
+      "uncountable",
+      "bread"
+    ]
+  },
+  {
+    "id": "g38",
+    "day": 25,
+    "playlist": "Zero to Hero",
+    "topic": "Quantifiers - Much/Many/A Lot Of/Few/Little/Any/Some",
+    "category": "Conditionals",
+    "hindi": "Quantity words ka complete guide",
+    "hinglishMeaning": "Few/Little=na ke barabar, A Few/A Little=kaam chal jayega, Much/Many=negative, Any=zero",
+    "rules": [
+      "Much = uncountable + negative (I don't have much time)",
+      "Many = countable + negative (I don't have many friends)",
+      "A Lot Of/Lots Of = positive + both countable/uncountable",
+      "Few = countable + almost none (negative feeling)",
+      "Little = uncountable + almost none (negative feeling)",
+      "A Few = countable + enough (positive feeling)",
+      "A Little = uncountable + enough (positive feeling)",
+      "Any = zero/none (negative/questions)",
+      "Some = positive (kuch hai)"
+    ],
+    "examples": [
+      "I have few friends. (Almost no friends - bad)",
+      "I have a few friends. (Enough friends - good)",
+      "I have little money. (Almost no money - bad)",
+      "I have a little money. (Enough money - okay)"
+    ],
+    "keywords": [
+      "much",
+      "many",
+      "few",
+      "little",
+      "a few",
+      "a little",
+      "any",
+      "some",
+      "a lot of"
+    ]
+  },
+  {
+    "id": "g39",
+    "day": 26,
+    "playlist": "Zero to Hero",
+    "topic": "Although / Though / Even Though",
+    "category": "Conjunctions",
+    "hindi": "Lekin/phir bhi - contrast connectors",
+    "hinglishMeaning": "Although+But = galat, Though flexible hai, Even Though = strong contrast",
+    "rules": [
+      "Although = but (contrast)",
+      "Though = but (more flexible, can come at end)",
+      "Even Though = strong but (strong contrast)",
+      "NEVER use Although + But together",
+      "Though can come at beginning, middle, or end"
+    ],
+    "examples": [
+      "Although he is rich, he doesn't spend money. (Wo ameer hai, phir bhi paisa nahi kharch karta.)",
+      "Even though it was raining heavily, we went outside. (Baarish bahut tez thi, phir bhi bahar gaye.)",
+      "I like him, though. (Main usse pasand karta hu, phir bhi.)"
+    ],
+    "keywords": [
+      "although",
+      "though",
+      "even though",
+      "but",
+      "contrast",
+      "phir bhi"
+    ]
+  },
+  {
+    "id": "g40",
+    "day": 26,
+    "playlist": "Zero to Hero",
+    "topic": "Until / Unless / As Long As",
+    "category": "Conditionals",
+    "hindi": "Jab tak / Agar nahi / Jab tak positive",
+    "hinglishMeaning": "Until=time, Unless=if not (condition), As Long As=positive jab tak",
+    "rules": [
+      "Until = time (jab tak/till a point of time)",
+      "Unless = condition (if not/agar nahi)",
+      "As Long As = positive condition (jab tak positive situation)",
+      "After Until/Unless: no WILL, no NOT, use V1",
+      "Unless already contains NOT"
+    ],
+    "examples": [
+      "I waited until 10 PM. (Main 10 baje tak wait kiya.)",
+      "Unless you study, you will fail. (Agar nahi padhe to fail ho jaoge.)",
+      "As long as I am alive, you don't need to worry. (Jab tak zinda hu, chinta mat karo.)"
+    ],
+    "keywords": [
+      "until",
+      "unless",
+      "as long as",
+      "jab tak",
+      "agar nahi",
+      "if not"
+    ]
+  },
+  {
+    "id": "g41",
+    "day": 27,
+    "playlist": "Zero to Hero",
+    "topic": "AS Family - As Soon As / As Long As / As Much As",
+    "category": "Advanced Spoken Rules",
+    "hindi": "As ke different meanings",
+    "hinglishMeaning": "As Soon As=jaise hi, As Long As=jab tak, As Much As=jitna, As Far As=jahan tak",
+    "rules": [
+      "As Soon As = jaise hi (immediately after)",
+      "As Long As = jab tak (positive condition)",
+      "As Much As = jitna (quantity/degree)",
+      "As Well As = saath hi saath / along with",
+      "As Far As = jahan tak (as far as I know = jahan tak mujhe pata hai)"
+    ],
+    "examples": [
+      "As soon as the class starts, inform me. (Jaise hi class shuru ho, bata dena.)",
+      "As long as I am alive, don't worry. (Jab tak zinda hu, chinta mat karo.)",
+      "As far as I am concerned, this is correct. (Jahan tak mera manna hai, ye sahi hai.)"
+    ],
+    "keywords": [
+      "as soon as",
+      "as long as",
+      "as much as",
+      "as well as",
+      "as far as"
+    ]
+  },
+  {
+    "id": "g42",
+    "day": 27,
+    "playlist": "Zero to Hero",
+    "topic": "As If / As Though / As Of Now / As It Is",
+    "category": "Conditionals",
+    "hindi": "As ke aur meanings",
+    "hinglishMeaning": "As If/Though=mano, As Of Now=filhaal, As It Is=jaisa hai waisa, As Usual=hamesha ki tarah",
+    "rules": [
+      "As If = mano (imagination/comparison)",
+      "As Though = mano (same as As If)",
+      "As Of Now = filhaal/abhi ke liye",
+      "As It Is = jaisa hai waisa (jyon ka tyon)",
+      "As Usual = hamesha ki tarah",
+      "As + Adjective + As = jitna...utna (comparison)"
+    ],
+    "examples": [
+      "She looked at me as if she would eat me. (Wo mujhe aise dekh rahi thi mano kha jaayegi.)",
+      "As of now, let's call it a day. (Filhaal yahi samapt karte hain.)",
+      "Leave the project as it is. (Project ko jaisa hai waisa chhod do.)"
+    ],
+    "keywords": [
+      "as if",
+      "as though",
+      "as of now",
+      "as it is",
+      "as usual",
+      "mano"
+    ]
+  },
+  {
+    "id": "g43",
+    "day": 28,
+    "playlist": "Zero to Hero",
+    "topic": "Complete WOULD Rules",
+    "category": "Modal Verbs",
+    "hindi": "Would ke sab uses",
+    "hinglishMeaning": "Would = past future, polite request, invitation, past habit, suggestion, imaginary",
+    "rules": [
+      "Would = Past Future (I told her I would come)",
+      "Would you mind + V-ing = polite request",
+      "Would you like to + V1 = polite invitation",
+      "Would you like some + Noun = offering objects",
+      "Would + V1 = past habit (similar to used to)",
+      "Would + V1 = suggestion/advice (I would call him tomorrow)",
+      "If + Past, Would + V1 = imaginary (Second Conditional)",
+      "If + Had + V3, Would Have + V3 = past regret (Third Conditional)"
+    ],
+    "examples": [
+      "I told you that I would come. (Maine kaha tha ki main aaunga.)",
+      "Would you mind helping me? (Kya aap madad karne ka kasht karenge?)",
+      "Would you like to dance? (Kya aap dance karna chahengi?)",
+      "She would always tease me. (Wo mujhe hamesha chhedha karti thi.)"
+    ],
+    "keywords": [
+      "would",
+      "past future",
+      "request",
+      "invitation",
+      "habit",
+      "suggestion"
+    ]
+  },
+  {
+    "id": "g44",
+    "day": 29,
+    "playlist": "Zero to Hero",
+    "topic": "Semi-Modal Verbs - Used To / Need / Dare",
+    "category": "Modal Verbs",
+    "hindi": "Half time words",
+    "hinglishMeaning": "Used To=past habit, Need Not=no zaroorat, Dare=himmat/courage",
+    "rules": [
+      "Used To + V1 = past habit (positive only)",
+      "Need Not + V1 = no necessity (negative only, no TO)",
+      "Need To = action form (I need to go)",
+      "Dare + Subject + V1 = courage (question only)",
+      "Dare To = action form (Do you dare to come?)",
+      "DID aane par Used To → Use To"
+    ],
+    "examples": [
+      "I used to smoke. (Main pehle cigarette peeta tha.)",
+      "You need not worry. (Tumhe chinta karne ki zaroorat nahi hai.)",
+      "Dare you touch me? (Kya tum mein mujhe chhune ki himmat hai?)"
+    ],
+    "keywords": [
+      "used to",
+      "need not",
+      "need to",
+      "dare",
+      "dare to",
+      "semi modal"
+    ]
+  },
+  {
+    "id": "g45",
+    "day": 30,
+    "playlist": "Zero to Hero",
+    "topic": "Short Forms - Gotta / Gonna / Wanna / Lemme",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Informal spoken English shortcuts",
+    "hinglishMeaning": "Gotta=must, Gonna=future, Wanna=want, Lemme=let me - sirf informal mein",
+    "rules": [
+      "Gotta = Got To = Need To/Must (I gotta go)",
+      "Gonna = Going To = future plan (I am gonna call you)",
+      "Wanna = Want To = desire (I wanna learn English)",
+      "Lemme = Let Me = permission (Lemme explain)",
+      "Informal only - NOT for interviews/formal communication"
+    ],
+    "examples": [
+      "I gotta study. (Mujhe padhna hai.)",
+      "She is gonna block you. (Wo tumhe block karne wali hai.)",
+      "I wanna talk to you. (Main tumse baat karna chahta hu.)",
+      "Lemme help you. (Mujhe tumhari madad karne do.)"
+    ],
+    "keywords": [
+      "gotta",
+      "gonna",
+      "wanna",
+      "lemme",
+      "short forms",
+      "informal"
+    ]
+  },
+  {
+    "id": "g46",
+    "day": 31,
+    "playlist": "Zero to Hero",
+    "topic": "Negative Questions",
+    "category": "Question Formation",
+    "hindi": "Kya tum nahi jaante?",
+    "hinglishMeaning": "Negative questions = confirming ki nahi - Don't you know me?",
+    "rules": [
+      "Full form: Time Word + Subject + Not + Action",
+      "Short form: Contraction + Subject + Action",
+      "Are not → Aren't you, Do not → Don't you",
+      "Pronunciation: Don't you → Doncha, Won't you → Woncha"
+    ],
+    "examples": [
+      "Don't you know me? (Kya tum mujhe nahi jaante?)",
+      "Aren't you coming? (Kya tum nahi aa rahe ho?)",
+      "Won't you come tomorrow? (Kya tum kal nahi aaoge?)"
+    ],
+    "keywords": [
+      "negative questions",
+      "don't you",
+      "aren't you",
+      "won't you"
+    ]
+  },
+  {
+    "id": "g47",
+    "day": 31,
+    "playlist": "Zero to Hero",
+    "topic": "Inversion Grammar",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Special word pehle, phir helping verb",
+    "hinglishMeaning": "Inversion mein special word pehle aata hai, phir helping verb, phir subject",
+    "rules": [
+      "Normal: Subject + Time Word + Action",
+      "Inversion: Special Word + Time Word + Subject + Action",
+      "Special words: Never, Rarely, Seldom, Hardly, Barely, Little",
+      "Third Conditional Inversion: Had + Subject + V3 (remove IF)",
+      "If I had known → Had I known"
+    ],
+    "examples": [
+      "Never have I seen such a beautiful girl. (Maine itni sundar ladki kabhi nahi dekhi.)",
+      "Rarely does she talk to me. (Wo mujhse bahut kam baat karti hai.)",
+      "Had I known about your wedding, I would have come. (Agar mujhe pata hota to aa jaata.)"
+    ],
+    "keywords": [
+      "inversion",
+      "never",
+      "rarely",
+      "hardly",
+      "had I known"
+    ]
+  },
+  {
+    "id": "g48",
+    "day": 32,
+    "playlist": "Zero to Hero",
+    "topic": "Degrees of Comparison",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Positive/Comparative/Superlative",
+    "hinglishMeaning": "1 syllable→ER/EST, 2+ syllables→MORE/MOST, irregular memorize karo",
+    "rules": [
+      "1 Syllable: ER (comparative), EST (superlative)",
+      "2+ Syllables: MORE (comparative), MOST (superlative)",
+      "NEVER: More Smarter, Most Smartest (ER+MORE nahi)",
+      "Irregular: Good→Better→Best, Bad→Worse→Worst",
+      "Lucky→Luckier→Luckiest (Y→I change)",
+      "The + Comparative, The + Comparative = jitna...utna"
+    ],
+    "examples": [
+      "Tall→Taller→Tallest",
+      "Beautiful→More Beautiful→Most Beautiful",
+      "The sooner, the better. (Jitna jaldi utna behtar.)",
+      "Good→Better→Best, Bad→Worse→Worst"
+    ],
+    "keywords": [
+      "comparative",
+      "superlative",
+      "positive degree",
+      "ER",
+      "EST",
+      "MORE",
+      "MOST"
+    ]
+  },
+  {
+    "id": "g49",
+    "day": 33,
+    "playlist": "Zero to Hero",
+    "topic": "Advanced Vocabulary - Moreover/Whereas/Nonetheless/However",
+    "category": "Question Formation",
+    "hindi": "Formal connectors for GDs and interviews",
+    "hinglishMeaning": "Moreover=iske alawa, Whereas=jabki, Nonetheless=phir bhi, However=haalaanki, So That=taaki",
+    "rules": [
+      "Moreover = iske alawa (adding information)",
+      "Whereas = jabki (contrast)",
+      "Nonetheless = phir bhi (despite that)",
+      "However = haalaanki (but)",
+      "So That = taaki (purpose)",
+      "Used in formal writing, GDs, presentations"
+    ],
+    "examples": [
+      "Moreover, he is also intelligent. (Iske alawa wo intelligent bhi hai.)",
+      "He is rich, whereas his brother is poor. (Wo ameer hai, jabki uska bhai gareeb hai.)",
+      "It was raining. Nonetheless, we went outside. (Baarish ho rahi thi. Phir bhi bahar gaye.)"
+    ],
+    "keywords": [
+      "moreover",
+      "whereas",
+      "nonetheless",
+      "however",
+      "so that",
+      "connectors"
+    ]
+  },
+  {
+    "id": "g50",
+    "day": 34,
+    "playlist": "Zero to Hero",
+    "topic": "Still / No Longer / Any More",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Abhi bhi / Ab nahi",
+    "hinglishMeaning": "Still=abhi bhi, No Longer=ab nahi (formal), Anymore=ab nahi (informal)",
+    "rules": [
+      "Still = abhi bhi (continuing situation)",
+      "No Longer = ab nahi (was true before, not now)",
+      "Any More = ab nahi (same as no longer, negative style)",
+      "No Longer + Verb (positive style)",
+      "Don't + Verb + Anymore (negative style)"
+    ],
+    "examples": [
+      "I still live there. (Main abhi bhi wahan rehta hu.)",
+      "I no longer love you. (Main ab tumse pyaar nahi karta.)",
+      "I don't love you anymore. (Main ab tumse pyaar nahi karta.)"
+    ],
+    "keywords": [
+      "still",
+      "no longer",
+      "anymore",
+      "abhi bhi",
+      "ab nahi"
+    ]
+  },
+  {
+    "id": "g51",
+    "day": 35,
+    "playlist": "Zero to Hero",
+    "topic": "I Want To / I Want + Object + To",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Chahta hu / Chahta hu ki wo kare",
+    "hinglishMeaning": "I want to+V1=khud karna, I want+Object+To+V1=kisi aur se karwana",
+    "rules": [
+      "I want to + V1 = main karna chahta hu",
+      "I want + Object + To + V1 = main chahta hu ki wo kare",
+      "I don't want to + V1 = main nahi chahta karna",
+      "I don't want + Object + To + V1 = main nahi chahta ki wo kare"
+    ],
+    "examples": [
+      "I want to fly. (Main udna chahta hu.)",
+      "I want you to study. (Main chahta hu tum padho.)",
+      "I don't want you to go. (Main nahi chahta tum jaao.)"
+    ],
+    "keywords": [
+      "I want to",
+      "I want",
+      "chahta hu",
+      "object",
+      "to"
+    ]
+  },
+  {
+    "id": "g52",
+    "day": 35,
+    "playlist": "Zero to Hero",
+    "topic": "It is + Subject + Who",
+    "category": "Question Formation",
+    "hindi": "Yahi hai jo...",
+    "hinglishMeaning": "It is he/she (NOT him/her) + Who + Verb = yahi hai jo...",
+    "rules": [
+      "It is + He/She/Name + Who + Verb (NOT: It is him/her who)",
+      "Use subject form after It is: he, she, I, we",
+      "Past: It was + Subject + Who + Verb",
+      "It is he who knows. (NOT: It is him who knows)"
+    ],
+    "examples": [
+      "It is she who knows. (Yahi hai jo jaanti hai.)",
+      "It was he who helped me. (Yahi tha jisne madad ki.)",
+      "It is he who knows how to teach English. (Yahi hai jo English padhana jaanta hai.)"
+    ],
+    "keywords": [
+      "it is",
+      "who",
+      "he",
+      "she",
+      "yahi hai jo"
+    ]
+  },
+  {
+    "id": "g53",
+    "day": 36,
+    "playlist": "Zero to Hero",
+    "topic": "The + Comparative + The + Comparative",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Jitna...utna...",
+    "hinglishMeaning": "The + Comparative, The + Comparative = jitna...utna... (donon comparative)",
+    "rules": [
+      "The + Comparative, The + Comparative = jitna...utna...",
+      "Both parts use comparative degree",
+      "No verb needed in short form",
+      "Common pattern in spoken English"
+    ],
+    "examples": [
+      "The sooner, the better. (Jitna jaldi utna behtar.)",
+      "The taller, the better. (Jitna lamba utna achha.)",
+      "The cheaper, the better. (Jitna sasta utna achha.)"
+    ],
+    "keywords": [
+      "the comparative",
+      "jitna utna",
+      "the more",
+      "the better"
+    ]
+  },
+  {
+    "id": "g54",
+    "day": 37,
+    "playlist": "Zero to Hero",
+    "topic": "Not To Speak Of / Let Alone",
+    "category": "Advanced Spoken Rules",
+    "hindi": "...ki baat to chhodo",
+    "hinglishMeaning": "Not to speak of = formal, Let alone = spoken - dono ka matlab 'ki baat to chhodo'",
+    "rules": [
+      "Not to speak of = ki baat to chhodo (formal)",
+      "Let alone = ki baat to chhodo (spoken)",
+      "Used when second thing is even more impossible than first",
+      "Main sentence + let alone + bigger thing"
+    ],
+    "examples": [
+      "Not to speak of tea, they didn't even ask for water. (Chai ki baat to chhodo, paani tak nahi poocha.)",
+      "He can't even run 1 km, let alone a marathon. (1 km nahi daud sakta, marathon ki baat to chhodo.)"
+    ],
+    "keywords": [
+      "not to speak of",
+      "let alone",
+      "ki baat to chhodo"
+    ]
+  },
+  {
+    "id": "g55",
+    "day": 37,
+    "playlist": "Zero to Hero",
+    "topic": "THERE = Existence",
+    "category": "Advanced Spoken Rules",
+    "hindi": "There = wahan nahi, astitva hona",
+    "hinglishMeaning": "There = astitva hona (hai/hain), There is no = nahi hai, Is there = kya hai",
+    "rules": [
+      "There is + Singular = ek hai (astitva)",
+      "There are + Plural = multiple hain",
+      "There is no = nahi hai",
+      "Question: Is/Are + There + ...",
+      "Two There together: one=existence, one=place"
+    ],
+    "examples": [
+      "There is God. (Bhagwan hain.)",
+      "There is a problem. (Ek problem hai.)",
+      "Is there any problem? (Koi problem hai kya?)",
+      "There is no sugar there. (Wahan sugar nahi hai.)"
+    ],
+    "keywords": [
+      "there is",
+      "there are",
+      "existence",
+      "astitva",
+      "wahan"
+    ]
+  },
+  {
+    "id": "g56",
+    "day": 38,
+    "playlist": "Zero to Hero",
+    "topic": "Gen-Z Vocabulary",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Modern slang vocabulary",
+    "hinglishMeaning": "Gen-Z words = modern informal vocabulary for young people",
+    "rules": [
+      "This food is bussin = ye food bahut tasty hai",
+      "He is a sigma = wo ekdum cool/intelligent hai",
+      "That movie was epic = wo movie bahut achhi thi",
+      "This song is a banger = ye song bahut achha hai",
+      "He has great rizz = usme bahut charm hai",
+      "No cap = sach mein / no lie",
+      "Her drip is amazing = uska outfit/style bahut achha hai",
+      "That outfit is fire = wo outfit bahut achha hai"
+    ],
+    "examples": [
+      "This food is bussin. (Ye food bahut tasty hai.)",
+      "No cap. (Sach mein.)",
+      "His drip is fire. (Uska style bahut achha hai.)"
+    ],
+    "keywords": [
+      "gen-z",
+      "slang",
+      "bussin",
+      "sigma",
+      "drip",
+      "rizz",
+      "no cap",
+      "fire"
+    ]
+  },
+  {
+    "id": "g57",
+    "day": 39,
+    "playlist": "Zero to Hero",
+    "topic": "Ask Someone To + V1",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Kisi ko bolna ki wo kare",
+    "hinglishMeaning": "Ask + Someone + To + V1 = kisi ko bolna ki wo kare",
+    "rules": [
+      "Ask + Someone + To + V1 = kisi ko bolna/kehna ki wo kare",
+      "Past: Asked + Someone + To + V1",
+      "Used frequently in everyday English"
+    ],
+    "examples": [
+      "I stayed as long as he asked me to stay. (Main tab tak ruka jab tak usne mujhe rukne ko kaha.)",
+      "She asked me to help her. (Usne mujhse madad karne ko kaha.)"
+    ],
+    "keywords": [
+      "ask",
+      "to",
+      "someone",
+      "bolna",
+      "kehna"
+    ]
+  },
+  {
+    "id": "g58",
+    "day": 40,
+    "playlist": "Zero to Hero",
+    "topic": "Had Been vs Was/Were - Duration vs Particular Time",
+    "category": "Conjunctions",
+    "hindi": "Had Been + ING aur Was/Were + ING ka difference",
+    "hinglishMeaning": "Had Been+ING=duration (since/for), Was/Were+ING=particular time mein chal raha tha",
+    "rules": [
+      "Had Been + ING + Since/For = past mein kaam chal raha tha (duration focus)",
+      "Was/Were + ING = past mein kaam chal raha tha (particular time focus)",
+      "Had Been + V3 = pehle wala kaam (past perfect)",
+      "Had Been + ING with since/for only"
+    ],
+    "examples": [
+      "I had been waiting for 2 hours. (Main 2 ghante se wait kar raha tha.)",
+      "I was waiting at 4 o'clock. (Main 4 baje wait kar raha tha.)",
+      "She had been teaching me since morning. (Wo subah se mujhe padha rahi thi.)"
+    ],
+    "keywords": [
+      "had been",
+      "was",
+      "were",
+      "duration",
+      "particular time",
+      "since",
+      "for"
+    ]
+  },
+  {
+    "id": "g59",
+    "day": 41,
+    "playlist": "Zero to Hero",
+    "topic": "Present Perfect Continuous Passive",
+    "category": "Passive Voice",
+    "hindi": "Has/Have Been + Getting + V3",
+    "hinglishMeaning": "Has/Have Been + Getting + V3 = past se chal raha hai (passive form)",
+    "rules": [
+      "Has/Have Been + Getting + V3 = past se abhi tak chal raha hai (passive)",
+      "Getting acts as continuous marker in passive",
+      "Rarely used but appears in advanced grammar"
+    ],
+    "examples": [
+      "My car has been getting repaired since morning. (Subah se meri car repair ho rahi hai.)",
+      "The work has been getting done. (Kaam ho raha hai.)"
+    ],
+    "keywords": [
+      "has been getting",
+      "have been getting",
+      "passive",
+      "continuous"
+    ]
+  },
+  {
+    "id": "g60",
+    "day": 42,
+    "playlist": "Zero to Hero",
+    "topic": "Would Rather / It Is High Time / I Wish (Revision)",
+    "category": "Modal Verbs",
+    "hindi": "V2 ka non-past use revision",
+    "hinglishMeaning": "V2 = past nahi, unreal/imaginary/preference/wish/advice mein",
+    "rules": [
+      "Would Rather + V2 = preference (main chahunga ki)",
+      "It is high time + V2 = ab waqt aa gaya hai",
+      "I wish + V2 = kaash",
+      "If + V2, Would + V1 = imaginary future",
+      "V2 in these = NOT past tense, = unreal/imaginary"
+    ],
+    "examples": [
+      "I would rather you spoke English. (Main chahunga ki tum English bolo.)",
+      "It is high time you told the truth. (Ab tumhe sach bata dena chahiye.)",
+      "I wish I knew the answer. (Kaash mujhe answer pata hota.)"
+    ],
+    "keywords": [
+      "would rather",
+      "high time",
+      "I wish",
+      "V2",
+      "kaash",
+      "chahunga"
+    ]
+  },
+  {
+    "id": "g61",
+    "day": 43,
+    "playlist": "Zero to Hero",
+    "topic": "Past Rules Complete Revision",
+    "category": "Tenses",
+    "hindi": "Saare past rules ek saath",
+    "hinglishMeaning": "All past forms together for complete revision and understanding",
+    "rules": [
+      "Simple Past: V2",
+      "Past Continuous: Was/Were + ING",
+      "Past Perfect: Had + V3",
+      "Past Perfect Continuous: Had + Been + ING",
+      "Used To: past habit",
+      "Had To: majboori past mein",
+      "Could/Could Not: past ability",
+      "Much vs Many vs A Lot Of revision"
+    ],
+    "examples": [
+      "I ate. (Maine khaya.)",
+      "I was eating. (Main kha raha tha.)",
+      "I had eaten. (Maine kha liya tha.)",
+      "I had been eating. (Main kha raha tha.)"
+    ],
+    "keywords": [
+      "past revision",
+      "V2",
+      "was ing",
+      "had v3",
+      "had been ing"
+    ]
+  },
+  {
+    "id": "g62",
+    "day": 44,
+    "playlist": "Zero to Hero",
+    "topic": "IS/AM/ARE TO vs HAVE TO vs WAS TO vs HAD TO",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Karna hai / Karna padega / Karna tha / Karna pada",
+    "hinglishMeaning": "Is To=order(karna hai), Have To=compulsion(karna padega), Was To=karna tha, Had To=karna pada",
+    "rules": [
+      "Is/Am/Are To + V1 = karna hai (order/instruction)",
+      "Have To/Has To + V1 = karna padega (compulsion)",
+      "Was/Were To + V1 = karna tha (past order)",
+      "Had To + V1 = karna pada (past compulsion)"
+    ],
+    "examples": [
+      "You are to attend the meeting. (Tumhe meeting attend karna hai.)",
+      "You have to clean the toilet. (Tumhe toilet saaf karna padega.)",
+      "I was to attend the meeting. (Mujhe meeting attend karni thi.)",
+      "I had to leave early. (Mujhe jaldi nikalna pada.)"
+    ],
+    "keywords": [
+      "is to",
+      "have to",
+      "was to",
+      "had to",
+      "karna hai",
+      "karna padega"
+    ]
+  },
+  {
+    "id": "g63",
+    "day": 45,
+    "playlist": "Zero to Hero",
+    "topic": "SHALL/WILL/MAY/MIGHT - Future Probability Scale",
+    "category": "Modal Verbs",
+    "hindi": "Future certainty ka scale",
+    "hinglishMeaning": "Will=100%, May=high chance, Might=low chance, Shall=formal/offers",
+    "rules": [
+      "Will = 100% certainty",
+      "May = high possibility",
+      "Might = low possibility",
+      "Shall = formal English / offers/suggestions",
+      "Will Be/May Be/Might Be = no action words",
+      "MAYBE (one word) = shayad, MAY BE (two words) = future possibility"
+    ],
+    "examples": [
+      "India will win. (India pakka jeetegi.)",
+      "I may come tomorrow. (Shayad kal aaunga.)",
+      "I might get a job. (Ho sakta hai job mil jaaye.)",
+      "Shall I help you? (Kya main madad karu?)"
+    ],
+    "keywords": [
+      "will",
+      "may",
+      "might",
+      "shall",
+      "probability",
+      "certainty"
+    ]
+  },
+  {
+    "id": "g64",
+    "day": 46,
+    "playlist": "Zero to Hero",
+    "topic": "MUST HAVE / MAY HAVE / MIGHT HAVE / WILL HAVE",
+    "category": "Modal Verbs",
+    "hindi": "Past guessing aur future completion",
+    "hinglishMeaning": "Must Have=pakka, May Have=shayad, Might Have=kam chances, Will Have=ho chuka hoga",
+    "rules": [
+      "Must Have + V3 = past certainty (pakka kiya hoga)",
+      "May Have + V3 = past possibility (shayad kiya hoga)",
+      "Might Have + V3 = past low possibility (ho sakta hai)",
+      "Will Have + V3 = future completed (tab tak ho chuka hoga)",
+      "Go home/upstairs/inside/outside = no TO"
+    ],
+    "examples": [
+      "He must have slept. (Wo pakka so gaya hoga.)",
+      "She may have forgotten. (Wo bhool gayi hogi shayad.)",
+      "By the time you come, she will have left. (Tumhare aane tak wo ja chuki hogi.)",
+      "Go home (NOT: Go to home)"
+    ],
+    "keywords": [
+      "must have",
+      "may have",
+      "might have",
+      "will have",
+      "V3",
+      "by the time"
+    ]
+  },
+  {
+    "id": "g65",
+    "day": 47,
+    "playlist": "Zero to Hero",
+    "topic": "WILL BE + ING / MAY BE + ING / MUST BE + ING",
+    "category": "Modal Verbs",
+    "hindi": "Future ongoing actions",
+    "hinglishMeaning": "BE ke baad sirf 3 cheezein: No Action, ING, ya V3 - 4th rule nahi",
+    "rules": [
+      "Will Be + ING = kar raha hoga (100% sure ongoing)",
+      "May Be + ING = shayad kar raha ho (high possibility ongoing)",
+      "Might Be + ING = ho sakta hai kar raha ho (low possibility ongoing)",
+      "Must Be + ING = pakka kar raha hoga (strong guess ongoing)",
+      "BE ke 3 rules: No Action, ING, V3"
+    ],
+    "examples": [
+      "I will be studying at 2 PM. (2 baje main padh raha hunga.)",
+      "She may be cooking. (Wo shayad khana bana rahi hogi.)",
+      "She must be talking to Rahul. (Wo pakka Rahul se baat kar rahi hogi.)"
+    ],
+    "keywords": [
+      "will be ing",
+      "may be ing",
+      "might be ing",
+      "must be ing",
+      "ongoing"
+    ]
+  },
+  {
+    "id": "g66",
+    "day": 48,
+    "playlist": "Zero to Hero",
+    "topic": "IS/AM/ARE in Future / Going To / About To",
+    "category": "Tenses",
+    "hindi": "Planned future aur intention",
+    "hinglishMeaning": "Will=sudden, Is/Am/Are+ING=planned, Going To=intention, About To=immediate",
+    "rules": [
+      "IS/AM/ARE + V1+ING + Future Time = pre-planned future",
+      "Going To + V1 = karne wala hai (intention)",
+      "About To + V1 = karne hi wala hai (immediate)",
+      "Going To = Gonna (informal)",
+      "Was/Were + About To + V1 = karne wala tha (past)"
+    ],
+    "examples": [
+      "I am getting married in March. (Main March mein shaadi kar raha hu.)",
+      "I am going to buy a car. (Main car kharidne wala hu.)",
+      "I am about to tell you something. (Main abhi kuch batane wala hu.)"
+    ],
+    "keywords": [
+      "is am are future",
+      "going to",
+      "gonna",
+      "about to",
+      "planned"
+    ]
+  },
+  {
+    "id": "g67",
+    "day": 49,
+    "playlist": "Zero to Hero",
+    "topic": "Second Conditional / Imaginary Future / V2 Non-Past",
+    "category": "Modal Verbs",
+    "hindi": "V2 ka imaginary use complete",
+    "hinglishMeaning": "V2 = past nahi bhi ho sakta - imaginary/preference/wish/advice mein",
+    "rules": [
+      "If + V2, Would + V1 = imaginary/unreal future",
+      "Would Rather + V2 = preference",
+      "It is high time + V2 = advice",
+      "I wish + V2 = kaash",
+      "In Second Conditional: use WERE with everyone (I were, He were)",
+      "Real: If+Present, Will+V1 vs Imaginary: If+V2, Would+V1"
+    ],
+    "examples": [
+      "If I got this job, I would work hard. (Agar job mili to mehnat karta.)",
+      "If I were rich, I would buy a Ferrari. (Agar ameer hota to Ferrari kharidta.)",
+      "I wish I knew the answer. (Kaash mujhe answer pata hota.)"
+    ],
+    "keywords": [
+      "if",
+      "V2",
+      "would",
+      "imaginary",
+      "were",
+      "kaash",
+      "unreal"
+    ]
+  },
+  {
+    "id": "g68",
+    "day": 50,
+    "playlist": "Zero to Hero",
+    "topic": "All 4 Conditional Rules",
+    "category": "Modal Verbs",
+    "hindi": "Zero/First/Second/Third Conditional",
+    "hinglishMeaning": "Zero=truth, First=real future, Second=imaginary, Third=past regret",
+    "rules": [
+      "Zero: If+Present, Present (universal truth)",
+      "First: If+Present, Will+V1 (real future)",
+      "Second: If+V2, Would+V1 (imaginary)",
+      "Third: If+Had+V3, Would Have+V3 (past regret)",
+      "Third Conditional: use WERE with everyone",
+      "If I had had = first HAD helping, second HAD = V3 of HAVE"
+    ],
+    "examples": [
+      "If you touch fire, you get burned. (Aag chhoge to jaloge.)",
+      "If you study, you will pass. (Padhoge to pass ho jaoge.)",
+      "If I had known, I would have come. (Agar pata hota to aa jaata.)"
+    ],
+    "keywords": [
+      "conditional",
+      "zero",
+      "first",
+      "second",
+      "third",
+      "if",
+      "would have"
+    ]
+  },
+  {
+    "id": "g69",
+    "day": 51,
+    "playlist": "Zero to Hero",
+    "topic": "Question Tags Complete",
+    "category": "Question Formation",
+    "hindi": "Confirmation ke liye mini questions",
+    "hinglishMeaning": "Positive→Negative tag, Negative→Positive tag, always opposite",
+    "rules": [
+      "Positive statement → Negative tag",
+      "Negative statement → Positive tag",
+      "I am → aren't I (exception)",
+      "Used to → didn't you",
+      "Will → won't, Can → can't, Have → haven't",
+      "Used To question tag → didn't you (NOT usedn't you)"
+    ],
+    "examples": [
+      "You are coming, aren't you? (Tum aa rahe ho na?)",
+      "You don't speak English, do you? (Tum English nahi bolte na?)",
+      "I am improving, aren't I? (Main improve ho raha hu na?)",
+      "You used to smoke, didn't you? (Tum pehle cigarette peete the na?)"
+    ],
+    "keywords": [
+      "question tag",
+      "aren't you",
+      "didn't you",
+      "na",
+      "hai na",
+      "confirmation"
+    ]
+  },
+  {
+    "id": "g70",
+    "day": 52,
+    "playlist": "Zero to Hero",
+    "topic": "Neither/Nor, Either/Or, Neither Of, Either Of",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Na ye na wo / Ya to ye ya wo",
+    "hinglishMeaning": "Neither Of/Either Of=always singular, Neither...Nor/Either...Or=verb follows after NOR/OR",
+    "rules": [
+      "Neither...Nor: verb follows subject after NOR",
+      "Either...Or: verb follows subject after OR",
+      "Neither Of: always singular verb",
+      "Either Of: always singular verb",
+      "Neither she nor I am going. (I→am)",
+      "Either Rahul or you are going. (You→are)"
+    ],
+    "examples": [
+      "She neither eats nor drinks. (Na wo khati hai na peeti hai.)",
+      "Neither of them knows me. (Donon me se koi mujhe nahi jaanta.)",
+      "Either of you can help me? (Tum dono me se koi meri help kar sakta hai?)"
+    ],
+    "keywords": [
+      "neither",
+      "nor",
+      "either",
+      "or",
+      "singular verb",
+      "na ye na wo"
+    ]
+  },
+  {
+    "id": "g71",
+    "day": 53,
+    "playlist": "Zero to Hero",
+    "topic": "Also / Either / So / Neither (Advanced)",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Bhi / Bhi nahi advanced forms",
+    "hinglishMeaning": "Positive→Also/So+TV+Sub, Negative→Either/Neither+TV+Sub",
+    "rules": [
+      "Also = bhi (positive only)",
+      "Either = bhi nahi (negative only, at end)",
+      "So + TV + Subject = main bhi (advanced positive)",
+      "Neither + TV + Subject = main bhi nahi (advanced negative)",
+      "ALSO never in negative sentences"
+    ],
+    "examples": [
+      "I am also coming. (Main bhi aa raha hu.)",
+      "I am not going either. (Main bhi nahi ja raha.)",
+      "I am happy. → So am I. (Main bhi.)",
+      "I am not happy. → Neither am I. (Main bhi nahi.)"
+    ],
+    "keywords": [
+      "also",
+      "either",
+      "so am I",
+      "neither am I",
+      "bhi",
+      "bhi nahi"
+    ]
+  },
+  {
+    "id": "g72",
+    "day": 54,
+    "playlist": "Zero to Hero",
+    "topic": "BE/BEING/BEEN Forms + Passive Voice Basics",
+    "category": "Passive Voice",
+    "hindi": "BE ki forms aur passive voice",
+    "hinglishMeaning": "BE+NoAction=state, BE+ING=action in progress, BE+V3=passive voice",
+    "rules": [
+      "BE forms: Be(V1), Was/Were(V2), Been(V3), Being(V4)",
+      "Is/Am/Are + Being (present continuous passive)",
+      "Has/Have + Been (present perfect passive)",
+      "Will/Can/Should + Be (future/modal passive)",
+      "Was/Were alone (no other helping verb)",
+      "BE+V3 = Passive Voice / Without Doer English"
+    ],
+    "examples": [
+      "Tea is being made. (Chai ban rahi hai.)",
+      "Tea has been made. (Chai ban gayi hai.)",
+      "Tea will be made. (Chai banegi.)",
+      "Tea can be made. (Chai ban sakti hai.)"
+    ],
+    "keywords": [
+      "be",
+      "being",
+      "been",
+      "passive",
+      "V3",
+      "without doer"
+    ]
+  },
+  {
+    "id": "g73",
+    "day": 55,
+    "playlist": "Zero to Hero",
+    "topic": "Passive Voice Advanced - Habit/Me-Him-Her",
+    "category": "Passive Voice",
+    "hindi": "Habit passive aur object pronouns passive",
+    "hinglishMeaning": "Is/Am/Are+V3=habit passive, Object pronoun→subject form in passive",
+    "rules": [
+      "Habit Passive: Is/Am/Are + V3 (chai banti hai)",
+      "Past Passive: Was/Were + V3 (chai bani thi)",
+      "Me→I, Him→He, Her→She, Us→We, Them→They",
+      "Is/Am/Are + Being + V3 = present continuous passive",
+      "Has/Have + Been + V3 = present perfect passive",
+      "Negative: add NOT after helping verb",
+      "Question: helping verb comes first"
+    ],
+    "examples": [
+      "Samir sir is teaching me. → I am being taught. (Mujhe padhaya ja raha hai.)",
+      "People speak English here. → English is spoken here. (Yahan English boli jaati hai.)",
+      "It is said that ghosts live there. (Aisa kaha jaata hai ki wahan bhoot rehte hain.)"
+    ],
+    "keywords": [
+      "habit passive",
+      "me him her",
+      "passive",
+      "being",
+      "been",
+      "is made"
+    ]
+  },
+  {
+    "id": "g74",
+    "day": 56,
+    "playlist": "Zero to Hero",
+    "topic": "Passive Voice Exceptions - LET/MAKE/Getting",
+    "category": "Passive Voice",
+    "hindi": "VIP passive exceptions",
+    "hinglishMeaning": "LET→Be+V3, MAKE→Made+To+V1, Perfect Continuous→Getting+V3",
+    "rules": [
+      "Present Perfect Continuous Passive: Has/Have Been + Getting + V3",
+      "LET Passive: Let + Object + Be + V3",
+      "MAKE Passive: Be + Made + To + V1 (TO lagta hai!)",
+      "MAKE: Make+Object+V1 (active) → Object+Is Made+To+V1 (passive)"
+    ],
+    "examples": [
+      "My car has been getting repaired since morning. (Subah se car repair ho rahi hai.)",
+      "Let me close the door. → Let the door be closed. (Darwaza band ho jane do.)",
+      "She makes me laugh. → I am made to laugh. (Mujhe hasaya jata hai.)"
+    ],
+    "keywords": [
+      "getting",
+      "let",
+      "make",
+      "to",
+      "passive exception"
+    ]
+  },
+  {
+    "id": "g75",
+    "day": 57,
+    "playlist": "Zero to Hero",
+    "topic": "Would Have/Could Have/Should Have + BEEN",
+    "category": "Passive Voice",
+    "hindi": "BE→BEEN automatic in past modals",
+    "hinglishMeaning": "Would/Could/Should/May/Must Have→BEEN (BE ki V3)→NoAction ya V3",
+    "rules": [
+      "Would Have + V3 = karta agar chance milta",
+      "Could Have + V3 = kar sakta tha",
+      "Should Have + V3 = karna chahiye tha",
+      "Must Have + V3 = pakka kiya hoga",
+      "May Have + V3 = shayad kiya hoga",
+      "Will Have + V3 = tab tak ho chuka hoga",
+      "Been = BE ki V3 form (automatic after have)",
+      "Been + No Action OR Been + V3 (passive)"
+    ],
+    "examples": [
+      "You should have been angry. (Tumhe gussa hona chahiye tha.)",
+      "Tea should have been made. (Chai ban jani chahiye thi.)",
+      "The work could have been completed. (Kaam ho sakta tha.)"
+    ],
+    "keywords": [
+      "would have",
+      "could have",
+      "should have",
+      "been",
+      "V3",
+      "passive"
+    ]
+  },
+  {
+    "id": "g76",
+    "day": 58,
+    "playlist": "Zero to Hero",
+    "topic": "Articles A/An/The + How Much/Many",
+    "category": "Articles",
+    "hindi": "Articles aur quantity questions",
+    "hinglishMeaning": "A/An=unknown, The=known, How Much=uncountable, How Many=countable",
+    "rules": [
+      "A/An = unknown thing, The = known/specific thing",
+      "Uncountable: no A/An, The only if specific",
+      "How Much = uncountable (kitna)",
+      "How Many = countable (kitne)",
+      "Bread = uncountable (How much bread)",
+      "Tooth→Teeth (irregular plural)"
+    ],
+    "examples": [
+      "I found a boy. (Ek ladka mila - kaunsa nahi pata.)",
+      "Give me the chair near the door. (Wo chair de do - dono jaante hain.)",
+      "How much bread do you want? (Kitni bread chahiye?)",
+      "How many teeth were there? (Kitne daant the?)"
+    ],
+    "keywords": [
+      "a",
+      "an",
+      "the",
+      "how much",
+      "how many",
+      "countable",
+      "uncountable"
+    ]
+  },
+  {
+    "id": "g77",
+    "day": 59,
+    "playlist": "Zero to Hero",
+    "topic": "Quantifiers - Much/Many/Few/Little/A Few/A Little/Any/Some",
+    "category": "Conditionals",
+    "hindi": "Quantity words complete",
+    "hinglishMeaning": "Few/Little=na ke barabar, A Few/A Little=kaam chal jayega, Any=zero, Some=kuch hai",
+    "rules": [
+      "Much = uncountable + negative (I don't have much time)",
+      "Many = countable + negative (I don't have many friends)",
+      "A Lot Of/Lots Of = positive + both (I have a lot of money)",
+      "Few = countable + almost none (negative feeling)",
+      "A Few = countable + enough (positive feeling)",
+      "Little = uncountable + almost none (negative)",
+      "A Little = uncountable + enough (positive)",
+      "Any = zero (negative/questions)",
+      "Some = positive (kuch hai)"
+    ],
+    "examples": [
+      "I have few friends. (Almost no friends - bad)",
+      "I have a few friends. (Enough friends - good)",
+      "I have little money. (Almost no money)",
+      "I have a little money. (Enough money)"
+    ],
+    "keywords": [
+      "much",
+      "many",
+      "few",
+      "little",
+      "a few",
+      "a little",
+      "any",
+      "some",
+      "a lot of"
+    ]
+  },
+  {
+    "id": "g78",
+    "day": 60,
+    "playlist": "Zero to Hero",
+    "topic": "Although/Though/Even Though/Until/Unless/As Long As",
+    "category": "Conjunctions",
+    "hindi": "Contrast aur condition connectors",
+    "hinglishMeaning": "Although=but, Unless=if not, Until=time, As Long As=positive jab tak",
+    "rules": [
+      "Although = But (contrast)",
+      "Though = But (flexible, can come at end)",
+      "Even Though = Strong But (strong contrast)",
+      "Until = Till a time (time)",
+      "Unless = If not (condition)",
+      "As Long As = Positive condition (jab tak)",
+      "After Until/Unless: no WILL, no NOT",
+      "Although + But = WRONG (never together)"
+    ],
+    "examples": [
+      "Although he is rich, he is unhappy. (Wo ameer hai, phir bhi dukhi hai.)",
+      "Unless you study, you will fail. (Agar nahi padhe to fail ho jaoge.)",
+      "As long as I am alive, don't worry. (Jab tak zinda hu, chinta mat karo.)"
+    ],
+    "keywords": [
+      "although",
+      "though",
+      "even though",
+      "until",
+      "unless",
+      "as long as",
+      "but"
+    ]
+  },
+  {
+    "id": "g79",
+    "day": 61,
+    "playlist": "Zero to Hero",
+    "topic": "AS Family Complete",
+    "category": "Conditionals",
+    "hindi": "As ke sab meanings",
+    "hinglishMeaning": "As Soon As=jaise hi, As Long As=jab tak, As Much As=jitna, As Far As=jahan tak",
+    "rules": [
+      "As Soon As = jaise hi",
+      "As Long As = jab tak (positive)",
+      "As Much As = jitna",
+      "As Well As = saath hi saath / along with",
+      "As Far As = jahan tak (As far as I know)",
+      "As If = mano (imagination)",
+      "As Though = mano (same as As If)",
+      "As Of Now = filhaal",
+      "As It Is = jaisa hai waisa",
+      "As Usual = hamesha ki tarah",
+      "As + Adj + As = jitna...utna"
+    ],
+    "examples": [
+      "As soon as the class starts, inform me. (Jaise hi class shuru ho, bata dena.)",
+      "As far as I am concerned, this is correct. (Jahan tak mera manna hai, ye sahi hai.)",
+      "As if she would eat me. (Mano wo mujhe kha jaayegi.)",
+      "The sooner, the better. (Jitna jaldi utna behtar.)"
+    ],
+    "keywords": [
+      "as soon as",
+      "as long as",
+      "as much as",
+      "as well as",
+      "as far as",
+      "as if",
+      "as though"
+    ]
+  },
+  {
+    "id": "g80",
+    "day": 62,
+    "playlist": "Zero to Hero",
+    "topic": "Complete WOULD Rules",
+    "category": "Modal Verbs",
+    "hindi": "Would ke 8 uses",
+    "hinglishMeaning": "Would = past future, polite request, invitation, past habit, suggestion, imaginary",
+    "rules": [
+      "1. Future in Past: I told her I would come",
+      "2. Request: Would you mind + V-ing?",
+      "3. Invitation: Would you like to + V1?",
+      "4. Object Offer: Would you like some + Noun?",
+      "5. Past Habit: Would + V1 (like used to)",
+      "6. Imaginary: If + V2, Would + V1",
+      "7. Impossible Past: If + Had + V3, Would Have + V3",
+      "8. Suggestion: I would like you to..."
+    ],
+    "examples": [
+      "Would you mind helping me? (Kya aap madad karne ka kasht karenge?)",
+      "Would you like to dance? (Kya aap dance karna chahengi?)",
+      "If I were rich, I would buy a Ferrari. (Agar ameer hota to Ferrari kharidta.)",
+      "I would call him tomorrow. (Meri baat mano to kal call karta.)"
+    ],
+    "keywords": [
+      "would",
+      "past future",
+      "request",
+      "invitation",
+      "habit",
+      "suggestion",
+      "imaginary"
+    ]
+  },
+  {
+    "id": "g81",
+    "day": 63,
+    "playlist": "Zero to Hero",
+    "topic": "Semi-Modal Verbs - Used To / Need / Dare",
+    "category": "Modal Verbs",
+    "hindi": "Half time words",
+    "hinglishMeaning": "Used To=past habit, Need Not=no zaroorat, Dare=himmat",
+    "rules": [
+      "Used To + V1 = past habit (positive only)",
+      "Need Not + V1 = no necessity (negative only)",
+      "Need To = action form (I need to go)",
+      "Dare + Subject + V1 = courage (question)",
+      "Dare To = action form",
+      "DID aane par Used To→Use To",
+      "Need Not = no TO, no NEEDS"
+    ],
+    "examples": [
+      "I used to smoke. (Main pehle cigarette peeta tha.)",
+      "You need not worry. (Tumhe chinta karne ki zaroorat nahi.)",
+      "Dare you touch me? (Kya tum mein mujhe chhune ki himmat hai?)"
+    ],
+    "keywords": [
+      "used to",
+      "need not",
+      "need to",
+      "dare",
+      "dare to",
+      "semi modal"
+    ]
+  },
+  {
+    "id": "g82",
+    "day": 64,
+    "playlist": "Zero to Hero",
+    "topic": "Short Forms - Gotta/Gonna/Wanna/Lemme",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Informal spoken shortcuts",
+    "hinglishMeaning": "Gotta=must, Gonna=future, Wanna=want, Lemme=let me",
+    "rules": [
+      "Gotta = Got To = Need To/Must",
+      "Gonna = Going To = future plan",
+      "Wanna = Want To = desire",
+      "Lemme = Let Me = permission",
+      "Informal only - NOT for interviews/formal",
+      "Extra: I'm, I'll, I've, He isn't"
+    ],
+    "examples": [
+      "I gotta study. (Mujhe padhna hai.)",
+      "She is gonna block you. (Wo tumhe block karne wali hai.)",
+      "I wanna learn English. (Main English seekhna chahta hu.)",
+      "Lemme explain. (Mujhe samjhane do.)"
+    ],
+    "keywords": [
+      "gotta",
+      "gonna",
+      "wanna",
+      "lemme",
+      "short forms",
+      "informal"
+    ]
+  },
+  {
+    "id": "g83",
+    "day": 65,
+    "playlist": "Zero to Hero",
+    "topic": "Negative Questions + Inversion Grammar",
+    "category": "Question Formation",
+    "hindi": "Negative questions aur inversion",
+    "hinglishMeaning": "Inversion = special word pehle, phir helping verb, phir subject",
+    "rules": [
+      "Negative Questions: Don't you, Aren't you, Won't you, Can't you",
+      "Pronunciation: Don't you → Doncha, Won't you → Woncha",
+      "Inversion: Special Word + TV + Subject + Action",
+      "Never/Rarely/Seldom/Hardly/Barely/Little → inversion",
+      "Third Conditional Inversion: Had + Subject + V3 (remove IF)"
+    ],
+    "examples": [
+      "Don't you know me? (Kya tum mujhe nahi jaante?)",
+      "Never have I seen such a beautiful girl. (Maine itni sundar ladki kabhi nahi dekhi.)",
+      "Had I known, I would have come. (Agar mujhe pata hota to aa jaata.)"
+    ],
+    "keywords": [
+      "negative questions",
+      "inversion",
+      "never",
+      "rarely",
+      "hardly",
+      "had I known"
+    ]
+  },
+  {
+    "id": "g84",
+    "day": 66,
+    "playlist": "Zero to Hero",
+    "topic": "Degrees of Comparison Complete",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Positive/Comparative/Superlative",
+    "hinglishMeaning": "1 syllable→ER/EST, 2+→MORE/MOST, irregular memorize, never More+ER",
+    "rules": [
+      "1 Syllable: ER (comparative), EST (superlative)",
+      "2+ Syllables: MORE (comparative), MOST (superlative)",
+      "NEVER: More+ER or Most+EST",
+      "Irregular: Good→Better→Best, Bad→Worse→Worst, Little→Less→Least",
+      "Y→I before ER/EST (Lucky→Luckier→Luckiest)",
+      "The + Comparative, The + Comparative = jitna...utna"
+    ],
+    "examples": [
+      "Tall→Taller→Tallest",
+      "Beautiful→More Beautiful→Most Beautiful",
+      "The sooner, the better. (Jitna jaldi utna behtar.)",
+      "Good→Better→Best, Bad→Worse→Worst"
+    ],
+    "keywords": [
+      "comparative",
+      "superlative",
+      "positive",
+      "ER",
+      "EST",
+      "MORE",
+      "MOST",
+      "irregular"
+    ]
+  },
+  {
+    "id": "g85",
+    "day": 67,
+    "playlist": "Zero to Hero",
+    "topic": "Advanced Vocabulary + Connectors",
+    "category": "Question Formation",
+    "hindi": "Moreover/Whereas/Nonetheless/However + So That",
+    "hinglishMeaning": "Moreover=iske alawa, Whereas=jabki, Nonetheless=phir bhi, However=haalaanki, So That=taaki",
+    "rules": [
+      "Moreover = iske alawa",
+      "Whereas = jabki (contrast)",
+      "Nonetheless = phir bhi (despite)",
+      "However = haalaanki",
+      "So That = taaki (purpose)",
+      "Gen-Z vocabulary: bussin, sigma, drip, rizz, no cap, fire"
+    ],
+    "examples": [
+      "Moreover, he is also intelligent. (Iske alawa wo intelligent bhi hai.)",
+      "He is rich, whereas his brother is poor. (Wo ameer hai, jabki uska bhai gareeb hai.)",
+      "I study hard so that I can pass. (Main mehnat karta hu taaki pass ho jaun.)"
+    ],
+    "keywords": [
+      "moreover",
+      "whereas",
+      "nonetheless",
+      "however",
+      "so that",
+      "connectors"
+    ]
+  },
+  {
+    "id": "g86",
+    "day": 68,
+    "playlist": "Zero to Hero",
+    "topic": "Also/Either/Still/No Longer/Any More",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Continuation aur stopping",
+    "hinglishMeaning": "Still=abhi bhi, No Longer=ab nahi (formal), Anymore=ab nahi (informal)",
+    "rules": [
+      "Also = bhi (positive)",
+      "Either = bhi nahi (negative, at end)",
+      "Still = abhi bhi (continuing)",
+      "No Longer = ab nahi (formal)",
+      "Any More = ab nahi (informal, negative)",
+      "No Longer = Don't...Anymore (same meaning, different style)",
+      "Vocabulary: Make a fuss of trifles, Give up, Quit"
+    ],
+    "examples": [
+      "I still live there. (Main abhi bhi wahan rehta hu.)",
+      "I no longer love you. (Main ab tumse pyaar nahi karta.)",
+      "I don't love you anymore. (Main ab tumse pyaar nahi karta.)"
+    ],
+    "keywords": [
+      "also",
+      "either",
+      "still",
+      "no longer",
+      "anymore",
+      "abhi bhi",
+      "ab nahi"
+    ]
+  },
+  {
+    "id": "g87",
+    "day": 69,
+    "playlist": "Zero to Hero",
+    "topic": "VIP Rules - I Want To / It Is Who / The+Comparative",
+    "category": "Question Formation",
+    "hindi": "Most useful spoken English patterns",
+    "hinglishMeaning": "I want to+V1=khud karna, I want+Obj+To+V1=kisi aur se, It is he/she who=yahi hai jo",
+    "rules": [
+      "I want to + V1 = main karna chahta hu",
+      "I want + Object + To + V1 = main chahta hu ki wo kare",
+      "It is + Subject(he/she) + Who + Verb (NOT him/her)",
+      "The + Comparative, The + Comparative = jitna...utna",
+      "Presentation skills: standing, eye contact, hand movements"
+    ],
+    "examples": [
+      "I want you to study. (Main chahta hu tum padho.)",
+      "It is she who knows. (Yahi hai jo jaanti hai.)",
+      "The sooner, the better. (Jitna jaldi utna behtar.)"
+    ],
+    "keywords": [
+      "I want to",
+      "I want",
+      "it is who",
+      "the comparative",
+      "presentation"
+    ]
+  },
+  {
+    "id": "g88",
+    "day": 70,
+    "playlist": "Zero to Hero",
+    "topic": "Not To Speak Of / Let Alone + THERE (Existence)",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Ki baat to chhodo + Astitva",
+    "hinglishMeaning": "Not to speak of/Let alone=ki baat to chhodo, There=is/astitva hona",
+    "rules": [
+      "Not to speak of = ki baat to chhodo (formal)",
+      "Let alone = ki baat to chhodo (spoken)",
+      "There is + Singular = hai (astitva)",
+      "There are + Plural = hain (astitva)",
+      "There is no = nahi hai",
+      "Question: Is/Are + There + ...",
+      "There is a will, there is a way. (Jahan chaah wahan raah.)"
+    ],
+    "examples": [
+      "Not to speak of tea, they didn't even ask for water. (Chai ki baat to chhodo, paani tak nahi poocha.)",
+      "He can't run 1 km, let alone a marathon. (1 km nahi daud sakta, marathon ki baat to chhodo.)",
+      "There is God. (Bhagwan hain.)",
+      "There is a way. (Ek raasta hai.)"
+    ],
+    "keywords": [
+      "not to speak of",
+      "let alone",
+      "there is",
+      "there are",
+      "existence",
+      "astitva"
+    ]
+  },
+  {
+    "id": "g89",
+    "day": 1,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Is / Am / Are + Verb 3rd Form",
+    "category": "Passive Voice",
+    "hindi": "Is Am Are ke saath 3rd form kab use kare",
+    "hinglishMeaning": "Jab kaam khud nahi karte, kisi aur se hota hai tab is/am/are + V3 use karo",
+    "rules": [
+      "Is/Am/Are + V3 = passive present (kiya jata hai)",
+      "Subject + is/am/are + verb 3rd form = kaam hota hai by someone else"
+    ],
+    "examples": [
+      "The work is done. (Kaam kiya jata hai.)",
+      "The letter is written. (Chithi likhi jaati hai.)",
+      "The food is cooked. (Khana pakaya jaata hai.)"
+    ],
+    "keywords": [
+      "passive",
+      "is",
+      "am",
+      "are",
+      "verb",
+      "3rd form",
+      "present passive"
+    ]
+  },
+  {
+    "id": "g90",
+    "day": 2,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Real Rules of Prepositions",
+    "category": "Prepositions",
+    "hindi": "Prepositions ke asli rules — logic se samjho",
+    "hinglishMeaning": "Prepositions position ya direction batane ke words hain — logic se samjho, ratta nahi maro",
+    "rules": [
+      "Prepositions = position (jagah) ya movement (chalna) batane ke words",
+      "Logic se samjho: koi cheez kahan hai ya kis taraf ja rahi hai",
+      "In = andar, On = upar touch karke, At = exact point"
+    ],
+    "examples": [
+      "The book is on the table. (Kitaab table ke upar hai.)",
+      "He is in the room. (Woh kamre mein hai.)",
+      "She is at the door. (Woh darwaaze pe hai.)"
+    ],
+    "keywords": [
+      "preposition",
+      "position",
+      "movement",
+      "logic",
+      "in",
+      "on",
+      "at"
+    ]
+  },
+  {
+    "id": "g91",
+    "day": 3,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Modal Verbs — Got To / Need To / Have To / Must / Want To",
+    "category": "Modal Verbs",
+    "hindi": "Majboori, zaroorat aur chahat ke beech farak",
+    "hinglishMeaning": "Majboori (have to/must), zaroorat (need to), aur chahat (want to) ke beech farak samjho",
+    "rules": [
+      "Got to = informal must (karna hi padega)",
+      "Need to = zaroorat hai (required)",
+      "Have to = majboori hai (must)",
+      "Must = strong obligation (bilkul karna hai)",
+      "Want to = chahat hai (desire, not obligation)"
+    ],
+    "examples": [
+      "I have to go. (Mujhe jaana padega — majboori.)",
+      "I need to study. (Mujhe padhna hai — zaroorat.)",
+      "I want to eat. (Mujhe khana hai — chahat.)",
+      "I must finish this. (Mujhe yeh khatam karna hi hai — strong.)"
+    ],
+    "keywords": [
+      "modal",
+      "got to",
+      "need to",
+      "have to",
+      "must",
+      "want to",
+      "obligation",
+      "necessity",
+      "desire"
+    ]
+  },
+  {
+    "id": "g92",
+    "day": 4,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "British vs American English",
+    "category": "Modal Verbs",
+    "hindi": "British aur American English mein farak",
+    "hinglishMeaning": "British aur American English mein pronunciation, vocabulary aur spelling ka farak hota hai",
+    "rules": [
+      "Pronunciation difference: colour (UK) vs color (US)",
+      "Vocabulary: lift (UK) vs elevator (US), lorry (UK) vs truck (US)",
+      "Usage: have got (UK) vs have (US)"
+    ],
+    "examples": [
+      "I am colouring (UK) vs I am coloring (US)",
+      "Take the lift (UK) vs Take the elevator (US)",
+      "I have got a car (UK) vs I have a car (US)"
+    ],
+    "keywords": [
+      "British",
+      "American",
+      "pronunciation",
+      "vocabulary",
+      "spelling",
+      "usage"
+    ]
+  },
+  {
+    "id": "g93",
+    "day": 5,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Connector Words — As Soon As / As Long As / So That / Even Though",
+    "category": "Conjunctions",
+    "hindi": "Sentence jodne wale connector words",
+    "hinglishMeaning": "Connector words do sentences ko jodte hain — har connector ka apna meaning aur use hai",
+    "rules": [
+      "As soon as = jaise hi (immediately after)",
+      "As long as = jab tak (condition continues)",
+      "So that = taaki (purpose/reason)",
+      "Even though = bhale hi / chahe (contrast)"
+    ],
+    "examples": [
+      "I will call you as soon as I reach. (Main tumhe call karunga jaise hi pahunchunga.)",
+      "You can stay as long as you want. (Tum reh sakte ho jab tak chahte ho.)",
+      "I study hard so that I can pass. (Main mehnat se padhta hoon taaki pass ho jaaun.)",
+      "Even though it rained, we went out. (Bhale hi baarish hui, hum bahar gaye.)"
+    ],
+    "keywords": [
+      "connector",
+      "as soon as",
+      "as long as",
+      "so that",
+      "even though",
+      "joining words"
+    ]
+  },
+  {
+    "id": "g94",
+    "day": 6,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Prepositions — In / On / At",
+    "category": "Prepositions",
+    "hindi": "In, On, At ke rules aur exceptions",
+    "hinglishMeaning": "In = andar/lamba time, On = upar/din, At = exact point/ghanta",
+    "rules": [
+      "In = enclosed space / long time (kamra, saal, mahina)",
+      "On = surface / specific day (table, Monday, wall)",
+      "At = exact point / specific time (door, 5 PM, station)",
+      "Exception: on Monday but at night, in the morning"
+    ],
+    "examples": [
+      "She lives in Delhi. (Woh Delhi mein rehti hai.)",
+      "The book is on the shelf. (Kitaab shelf par hai.)",
+      "I will meet you at 5 PM. (Main tumse 5 baje milunga.)",
+      "At night (not in night), in the morning (not at morning)"
+    ],
+    "keywords": [
+      "in",
+      "on",
+      "at",
+      "preposition",
+      "time",
+      "place",
+      "exception"
+    ]
+  },
+  {
+    "id": "g95",
+    "day": 8,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "TO + Verb 1st Form vs TO + Verb ING",
+    "category": "Prepositions",
+    "hindi": "Kab TO ke baad 1st form aur kab ING aata hai",
+    "hinglishMeaning": "TO + 1st form = purpose, TO + ING = jab TO preposition ho (infinitive nahi)",
+    "rules": [
+      "TO + Verb 1st form = purpose (taaki/karne ke liye)",
+      "TO + Verb ING = when TO is a preposition (not infinitive)",
+      "Look forward to meeting (NOT look forward to meet)"
+    ],
+    "examples": [
+      "I came to see you. (Main tumse milne aaya.)",
+      "I look forward to hearing from you. (Main tumhara jawab sunne ka intezaar kar raha hoon.)",
+      "She is used to working hard. (Woh mehnat karne ki aadi hai.)"
+    ],
+    "keywords": [
+      "to",
+      "verb 1st form",
+      "verb ing",
+      "infinitive",
+      "preposition",
+      "gerund"
+    ]
+  },
+  {
+    "id": "g96",
+    "day": 10,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Second Form & HAVE — Completed vs Past Action",
+    "category": "Tenses",
+    "hindi": "Completed action aur past action mein farak",
+    "hinglishMeaning": "Past action = kab hua (2nd form), Completed = ho chuka (have + 3rd form)",
+    "rules": [
+      "Verb 2nd form = past simple (pichhla kaam)",
+      "HAVE + V3 = completed action (kaam ho chuka hai)",
+      "I ate = maine khaya (past), I have eaten = maine kha liya hai (completed)"
+    ],
+    "examples": [
+      "I went to Delhi yesterday. (Main kal Delhi gaya — past action.)",
+      "I have finished my work. (Maine apna kaam khatam kar liya hai — completed.)",
+      "She wrote a letter. (Usne chithi likhi — past.)",
+      "She has written a letter. (Usne chithi likh li hai — completed.)"
+    ],
+    "keywords": [
+      "second form",
+      "have",
+      "completed action",
+      "past action",
+      "verb 3rd form",
+      "perfect tense"
+    ]
+  },
+  {
+    "id": "g97",
+    "day": 11,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Tell Me About Yourself — Self Introduction",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Interview mein khud ko kaise introduce karein",
+    "hinglishMeaning": "Interview mein pehle naam, phir background, skills aur goal — short aur relevant rakhna",
+    "rules": [
+      "Structure: Name → Background → Skills → Goal",
+      "Keep it short (30-60 seconds)",
+      "Focus on relevant info, not personal details"
+    ],
+    "examples": [
+      "My name is Rahul. I am a computer science student with a passion for web development.",
+      "I have been learning DSA and building projects for the past 6 months.",
+      "My goal is to become a full-stack developer and work in a product-based company."
+    ],
+    "keywords": [
+      "self introduction",
+      "interview",
+      "tell me about yourself",
+      "spoken English",
+      "professional"
+    ]
+  },
+  {
+    "id": "g98",
+    "day": 12,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Quantifiers — Much / Many / A Lot Of / Lots Of / Few / A Few / Little / A Little",
+    "category": "Conditionals",
+    "hindi": "Kitna aur kitni — quantity batane ke words",
+    "hinglishMeaning": "Countable vs uncountable ke liye alag quantifiers — A laga toh positive, bina A ke negative feeling",
+    "rules": [
+      "Much = uncountable (negative/question): not much water",
+      "Many = countable plural (negative/question): not many books",
+      "A lot of / Lots of = countable + uncountable (positive)",
+      "Few = countable (almost none — negative feeling)",
+      "A few = countable (some — positive feeling)",
+      "Little = uncountable (almost none — negative)",
+      "A little = uncountable (some — positive)"
+    ],
+    "examples": [
+      "I don't have much money. (Mere paas zyada paise nahi hain.)",
+      "I have many friends. (Mere paas bahut saare dost hain.)",
+      "I have a lot of time. (Mere paas bahut time hai.)",
+      "Few students passed. (Kuch students bhi pass nahi hue — negative.)",
+      "A few students passed. (Kuch students pass hue — positive.)",
+      "There is little hope. (Umeed bahut kam hai — negative.)",
+      "There is a little hope. (Thodi umeed hai — positive.)"
+    ],
+    "keywords": [
+      "much",
+      "many",
+      "a lot of",
+      "lots of",
+      "few",
+      "a few",
+      "little",
+      "a little",
+      "quantifier"
+    ]
+  },
+  {
+    "id": "g99",
+    "day": 13,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Grammar Learning Strategy — Pattern Learning",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Ek rule seekho, bahut saare sentences banao",
+    "hinglishMeaning": "Ek rule pakdo, usse bahut saare sentences banao — pattern se seekho, ratta nahi",
+    "rules": [
+      "Learn ONE rule at a time",
+      "Create MANY sentences with that rule",
+      "Expand simple sentences into complex ones",
+      "Practice pattern, not just rules"
+    ],
+    "examples": [
+      "Rule: Subject + Verb 1st form + Object → I eat rice. I drink water. She reads books.",
+      "Expand: I eat rice every day → I eat rice every day with my family at home."
+    ],
+    "keywords": [
+      "pattern learning",
+      "sentence expansion",
+      "practice",
+      "strategy",
+      "grammar learning"
+    ]
+  },
+  {
+    "id": "g100",
+    "day": 14,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Prepositions — TO / TOO / INTO / ONTO",
+    "category": "Prepositions",
+    "hindi": "To, Too, Into, Onto mein farak",
+    "hinglishMeaning": "To = kahan jaana, Too = bahut/bhi, Into = andar jaana, Onto = upar jaana",
+    "rules": [
+      "To = direction/destination (kisi jagah jaana)",
+      "Too = also/very (bhi/bahut)",
+      "Into = moving inside (andar jaana)",
+      "Onto = moving on top of (upar jaana)"
+    ],
+    "examples": [
+      "I am going to Delhi. (Main Delhi ja raha hoon.)",
+      "I am too tired. (Main bahut thak gaya hoon.)",
+      "She jumped into the pool. (Woh pool mein kood gayi.)",
+      "The cat jumped onto the table. (Billi table ke upar kood gayi.)"
+    ],
+    "keywords": [
+      "to",
+      "too",
+      "into",
+      "onto",
+      "preposition",
+      "direction",
+      "movement"
+    ]
+  },
+  {
+    "id": "g101",
+    "day": 15,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Prepositions — WITH / BY",
+    "category": "Passive Voice",
+    "hindi": "With aur By ke rules aur common mistakes",
+    "hinglishMeaning": "With = saath/tool, By = dwara (passive) / paas / time tak",
+    "rules": [
+      "With = saath mein (together/accompaniment/tool)",
+      "By = dwara (agent in passive) / paas mein (nearness) / by time (deadline)",
+      "Common mistake: 'by me' vs 'with me' in passive voice"
+    ],
+    "examples": [
+      "I am going with my friend. (Main apne dost ke saath ja raha hoon.)",
+      "The letter was written by me. (Chithi mere dwara likhi gayi.)",
+      "Come by 5 PM. (5 baje tak aa jaana.)",
+      "She cut the paper with scissors. (Usne kanchi se kaata.)"
+    ],
+    "keywords": [
+      "with",
+      "by",
+      "preposition",
+      "passive voice",
+      "accompaniment",
+      "agent"
+    ]
+  },
+  {
+    "id": "g102",
+    "day": 16,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "ING Form — Five Rules of ING",
+    "category": "Prepositions",
+    "hindi": "ING form ke 5 rules kab use karein",
+    "hinglishMeaning": "ING form 5 jagah use hoti hai — continuous, noun, preposition ke baad, certain verbs ke baad, aur adjective",
+    "rules": [
+      "Rule 1: Continuous tense mein (I am eating)",
+      "Rule 2: As a noun / subject (Swimming is fun)",
+      "Rule 3: After prepositions (interested in learning)",
+      "Rule 4: After certain verbs (enjoy, avoid, finish + ING)",
+      "Rule 5: As adjective (interesting book)"
+    ],
+    "examples": [
+      "I am studying. (Main padh raha hoon — continuous.)",
+      "Swimming is good exercise. (Tairna achi exercise hai — noun.)",
+      "I am interested in reading. (Mujhe padhne mein interest hai — after preposition.)",
+      "I enjoy playing cricket. (Mujhe cricket khelna pasand hai — after enjoy.)",
+      "This is an interesting story. (Yeh ek interesting kahani hai — adjective.)"
+    ],
+    "keywords": [
+      "ing form",
+      "gerund",
+      "continuous",
+      "preposition",
+      "adjective",
+      "verb + ing"
+    ]
+  },
+  {
+    "id": "g103",
+    "day": 17,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Time Expressions — Since / Ever Since / Since When / Since Then",
+    "category": "Conjunctions",
+    "hindi": "Since se related time expressions",
+    "hinglishMeaning": "Since = jab se start hua, Ever since = us waqt se ab tak continuous, Since when = kab se, Since then = uske baad se",
+    "rules": [
+      "Since = jab se (starting point of time)",
+      "Ever since = us waqt se ab tak (continuous from past)",
+      "Since when = kab se (question — how long)",
+      "Since then = uske baad se (from that point onwards)"
+    ],
+    "examples": [
+      "I have been living here since 2020. (Main 2020 se yahan reh raha hoon.)",
+      "I have loved music ever since I was a child. (Mujhe bachpan se music pasand hai.)",
+      "Since when do you know him? (Tumhe kab se woh banda pata hai?)",
+      "He moved abroad and since then we haven't met. (Woh desh chhod gaya aur uske baad se hum nahi mile.)"
+    ],
+    "keywords": [
+      "since",
+      "ever since",
+      "since when",
+      "since then",
+      "time expression",
+      "present perfect"
+    ]
+  },
+  {
+    "id": "g104",
+    "day": 18,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Perfect Continuous — Have Been / Has Been",
+    "category": "Conjunctions",
+    "hindi": "Have been aur Has been kab use karein",
+    "hinglishMeaning": "Have/has been + ING = kaam pichhli mein shuru hua aur abhi bhi chal raha hai",
+    "rules": [
+      "Have been = I/You/We/They ke saath (kaam shuru hua aur abhi bhi chal raha hai)",
+      "Has been = He/She/It ke saath",
+      "Structure: Subject + have/has been + verb-ing + since/for"
+    ],
+    "examples": [
+      "I have been working here for 2 years. (Main 2 saal se yahan kaam kar raha hoon.)",
+      "She has been studying since morning. (Woh subah se padh rahi hai.)",
+      "They have been playing cricket for 3 hours. (Woh 3 ghante se cricket khel rahe hain.)"
+    ],
+    "keywords": [
+      "have been",
+      "has been",
+      "perfect continuous",
+      "present perfect continuous",
+      "since",
+      "for"
+    ]
+  },
+  {
+    "id": "g105",
+    "day": 19,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "BE Family — BE / BEEN / BEING",
+    "category": "Tenses",
+    "hindi": "Be, Been, Being ka farak aur use",
+    "hinglishMeaning": "BE = modal ke baad, BEEN = have/has ke baad, BEING = am/is/are ke baad + verb-ing",
+    "rules": [
+      "BE = base form (after modals: should be, will be)",
+      "BEEN = past participle (after have/has/had: have been)",
+      "BEING = present participle (after am/is/are/was/were: is being)"
+    ],
+    "examples": [
+      "It should be done. (Yeh hona chahiye — BE after modal.)",
+      "I have been waiting. (Main wait kar raha tha — BEEN after have.)",
+      "He is being rude. (Woh rudeness dikha raha hai — BEING after is.)"
+    ],
+    "keywords": [
+      "be",
+      "been",
+      "being",
+      "be family",
+      "base form",
+      "past participle",
+      "present participle"
+    ]
+  },
+  {
+    "id": "g106",
+    "day": 20,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Modal + BE — Should Be / May Be / Might Be / Must Be",
+    "category": "Modal Verbs",
+    "hindi": "Modal verbs ke saath BE ka use",
+    "hinglishMeaning": "Modal + BE = certainty ya possibility batana — should = chahiye, may = shayad, might = ho sakta, must = zaroor hoga",
+    "rules": [
+      "Should be = hona chahiye (advice/expectation)",
+      "May be = shayad hai (possibility — uncertain)",
+      "Might be = ho sakta hai (less certain possibility)",
+      "Must be = hona hi chahiye (strong deduction/certainty)"
+    ],
+    "examples": [
+      "He should be here by now. (Woh ab tak yahan hona chahiye.)",
+      "She may be at home. (Woh shayad ghar pe hai.)",
+      "It might be raining. (Baarish ho sakti hai.)",
+      "You must be tired after such a long journey. (Itna lamba safar karke tum thak gaye hoge.)"
+    ],
+    "keywords": [
+      "should be",
+      "may be",
+      "might be",
+      "must be",
+      "modal",
+      "possibility",
+      "deduction"
+    ]
+  },
+  {
+    "id": "g107",
+    "day": 21,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Habit Rule — Subject + First Form",
+    "category": "Tenses",
+    "hindi": "Aadat batane ka rule — Subject + Verb 1st form",
+    "hinglishMeaning": "Habit = 1st form use karo, DO chhupa hota hai, He/She/It ke saath S/ES lagao",
+    "rules": [
+      "Habit = Subject + Verb 1st form (I eat, She goes)",
+      "Hidden DO concept: I eat = I DO eat (DO chhupa hota hai)",
+      "Third person: He/She/It + verb with S/ES/IES"
+    ],
+    "examples": [
+      "I wake up at 6 AM. (Main 6 baje uthta hoon — daily habit.)",
+      "She drinks tea every morning. (Woh har subah chai peeti hai.)",
+      "They play cricket on Sundays. (Woh Sundays ko cricket khelte hain.)"
+    ],
+    "keywords": [
+      "habit",
+      "present simple",
+      "first form",
+      "do",
+      "daily routine",
+      "third person"
+    ]
+  },
+  {
+    "id": "g108",
+    "day": 22,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Habit Questions — WHEN / WHAT TIME / HOW OFTEN",
+    "category": "Question Formation",
+    "hindi": "Aadat ke baare mein sawal kaise puchein",
+    "hinglishMeaning": "Habit ke questions — When = kab, What time = kitne baje, How often = kitni baar",
+    "rules": [
+      "WHEN = kab (general time)",
+      "WHAT TIME = kitne baje (exact time)",
+      "HOW OFTEN = kitni baar (frequency)"
+    ],
+    "examples": [
+      "When do you wake up? (Tum kab uthte ho?)",
+      "What time do you eat dinner? (Tum kitne baje dinner khaate ho?)",
+      "How often do you exercise? (Tum kitni baar exercise karte ho?)"
+    ],
+    "keywords": [
+      "when",
+      "what time",
+      "how often",
+      "question",
+      "habit",
+      "frequency"
+    ]
+  },
+  {
+    "id": "g109",
+    "day": 24,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Present Simple for Future — Timetables & Scheduled Events",
+    "category": "Tenses",
+    "hindi": "Present Simple future ke liye kab use karein",
+    "hinglishMeaning": "Jab koi cheez scheduled ya fixed ho (train, meeting), toh present simple future ke liye use karo",
+    "rules": [
+      "Present Simple = future mein scheduled/timetabled events ke liye",
+      "Bus, train, flight timings",
+      "Fixed appointments aur events"
+    ],
+    "examples": [
+      "The train leaves at 8 PM tonight. (Train aaj raat 8 baje chhootegi — scheduled.)",
+      "The meeting starts at 10 AM tomorrow. (Meeting kal 10 baje shuru hogi.)",
+      "My flight arrives at 6 AM. (Mera flight 6 baje pahunchega.)"
+    ],
+    "keywords": [
+      "present simple",
+      "future",
+      "timetable",
+      "scheduled",
+      "fixed event"
+    ]
+  },
+  {
+    "id": "g110",
+    "day": 25,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "S / ES / IES — Third Person Singular Rules",
+    "category": "Advanced Spoken Rules",
+    "hindi": "He/She/It ke saath verb mein S/ES/IES lagana",
+    "hinglishMeaning": "He/She/It ke saath verb mein S lagao, ending dekh ke ES ya IES bhi lagao",
+    "rules": [
+      "General: verb + S (plays, walks, reads)",
+      "Ends in S/SH/CH/X/Z/O: verb + ES (watches, goes, fixes)",
+      "Ends in consonant + Y: Y changes to IES (studies, carries)",
+      "Ends in vowel + Y: just add S (plays, enjoys)"
+    ],
+    "examples": [
+      "He plays cricket. (Woh cricket khelta hai.)",
+      "She watches TV. (Woh TV dekhti hai — ES.)",
+      "He studies hard. (Woh mehnat se padhta hai — IES.)",
+      "She enjoys singing. (Woh gaana pasand karti hai — just S.)"
+    ],
+    "keywords": [
+      "third person",
+      "singular",
+      "s",
+      "es",
+      "ies",
+      "spelling",
+      "he she it"
+    ]
+  },
+  {
+    "id": "g111",
+    "day": 26,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Conditional Structures — IF / WHAT IF / EVEN IF / AS IF",
+    "category": "Conditionals",
+    "hindi": "Condition batane wale words",
+    "hinglishMeaning": "IF = agar, WHAT IF = kya hoga agar, EVEN IF = chahe jo ho, AS IF = jaise ki (fake comparison)",
+    "rules": [
+      "IF = agar (condition)",
+      "WHAT IF = kya hoga agar (hypothetical question)",
+      "EVEN IF = chahe jo bhi ho / bhale hi (regardless of condition)",
+      "AS IF = jaise ki (comparison — not real)"
+    ],
+    "examples": [
+      "If it rains, I will stay home. (Agar baarish hogi, main ghar rahunga.)",
+      "What if I fail? (Kya hoga agar main fail ho gaya?)",
+      "I will go even if it rains. (Main jaunga chahe baarish ho.)",
+      "He talks as if he knows everything. (Woh aise baat karta hai jaise sab kuch jaanta hai.)"
+    ],
+    "keywords": [
+      "if",
+      "what if",
+      "even if",
+      "as if",
+      "conditional",
+      "hypothetical",
+      "condition"
+    ]
+  },
+  {
+    "id": "g112",
+    "day": 27,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Special Spoken English Expressions & Advanced Speaking Patterns",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Spoken English mein use hone wale special expressions",
+    "hinglishMeaning": "Book wali English nahi, real life mein bole jaane wale expressions seekho",
+    "rules": [
+      "Use natural expressions instead of textbook English",
+      "Learn phrases, not just individual words",
+      "Practice speaking in real-life situations"
+    ],
+    "examples": [
+      "I'm running late. (Main late ho raha hoon.)",
+      "It doesn't matter. (Koi baat nahi.)",
+      "I'll figure it out. (Main samajh jaunga.)",
+      "Let's call it a day. (Aaj ke liye bas karte hain.)"
+    ],
+    "keywords": [
+      "spoken english",
+      "expressions",
+      "phrases",
+      "natural speaking",
+      "advanced"
+    ]
+  },
+  {
+    "id": "g113",
+    "day": 28,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Contrast Connectors — Although / Though / Even Though / Yet / Nonetheless",
+    "category": "Conjunctions",
+    "hindi": "Farak dikhane wale connector words",
+    "hinglishMeaning": "Although = bhale hi (formal), Though = informal version, Even though = zyada emphasis, Yet = phir bhi, Nonetheless = iske baavjood",
+    "rules": [
+      "Although = bhale hi (formal — sentence start ya middle)",
+      "Though = bhale hi (informal — sentence end mein bhi)",
+      "Even though = bhale hi (stronger than although — emphasis)",
+      "Yet = phir bhi (contrast in same sentence)",
+      "Nonetheless = fir bhi / iske baavjood (very formal)"
+    ],
+    "examples": [
+      "Although it rained, we went out. (Bhale hi baarish hui, hum bahar gaye.)",
+      "It was raining. We went out, though. (Baarish ho rahi thi. Hum bahar gaye, bhale hi.)",
+      "Even though I was tired, I finished the work. (Bhale hi main thak gaya tha, maine kaam khatam kiya.)",
+      "He is young, yet he is very wise. (Woh young hai, phir bhi bahut samajhdaar hai.)",
+      "It was difficult. Nonetheless, she succeeded. (Mushkil tha. Fir bhi, woh succeed ho gayi.)"
+    ],
+    "keywords": [
+      "although",
+      "though",
+      "even though",
+      "yet",
+      "nonetheless",
+      "contrast",
+      "connector"
+    ]
+  },
+  {
+    "id": "g114",
+    "day": 29,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Person / Persons / People / Peoples",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Person, Persons, People, Peoples mein farak",
+    "hinglishMeaning": "Person = 1, Persons = formal plural (2-3), People = general plural (most common), Peoples = alag communities",
+    "rules": [
+      "Person = ek insaan (singular)",
+      "Persons = insaan (formal/legal plural — 2 ya 3)",
+      "People = log (general plural — most common)",
+      "Peoples = log/alag-alag communities (nation/race level)"
+    ],
+    "examples": [
+      "He is a good person. (Woh achi insaan hai.)",
+      "Missing persons report. (Gumshuda logon ki report — formal.)",
+      "Many people came to the party. (Bahut log party mein aaye.)",
+      "The peoples of Asia. (Asia ki alag-alag communities.)"
+    ],
+    "keywords": [
+      "person",
+      "persons",
+      "people",
+      "peoples",
+      "singular",
+      "plural",
+      "formal"
+    ]
+  },
+  {
+    "id": "g115",
+    "day": 23,
+    "playlist": "30 Minutes Spoken & Grammar Rules",
+    "topic": "Habit Rule Test & Error Recovery",
+    "category": "Advanced Spoken Rules",
+    "hindi": "Habit rule ka test aur common mistakes se recovery",
+    "hinglishMeaning": "Common mistakes pehchano aur correct karo — galat bolna normal hai, improvement important hai",
+    "rules": [
+      "Common mistake: I am go → Wrong. I go → Correct",
+      "Common mistake: She go → Wrong. She goes → Correct",
+      "Common mistake: He don't → Wrong. He doesn't → Correct",
+      "Error recovery = galat bolna normal hai, correction seekho"
+    ],
+    "examples": [
+      "I am go to school → I go to school.",
+      "She don't like tea → She doesn't like tea.",
+      "He play football → He plays football."
+    ],
+    "keywords": [
+      "habit rule",
+      "test",
+      "error recovery",
+      "common mistakes",
+      "correction"
+    ]
+  }
+]
