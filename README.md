@@ -1,63 +1,203 @@
 # English Zero To Hero — Spoken English Learning Platform
 
-React + Vite EdTech platform for Hindi/Kannada medium students: 70-day grammar
-roadmap, grammar explorer, vocabulary, interview prep, and speaking practice.
+A React + Vite EdTech platform designed for Hindi/Kannada medium students to improve spoken English through structured learning.
+
+The platform combines a 70-day English roadmap, grammar rules with Hinglish explanations, vocabulary building, interview preparation, and speaking practice in one place.
+
+## Live Demo
+
+🚀 Deployed on Vercel:
+
+[https://your-vercel-url.vercel.app](https://englishzerohero.vercel.app/)
+
+---
+
+## Features
+
+### 📚 70-Day English Roadmap
+- Complete beginner-to-advanced learning journey
+- Day-wise grammar progression
+- Structured topics for consistent practice
+
+### 📖 Grammar Explorer
+- 115+ grammar concepts
+- English rules with Hinglish explanations
+- Examples with Hindi meanings
+- Searchable grammar topics
+
+### 🔎 Global Search
+- Search across:
+  - Grammar rules
+  - Learning days
+  - Vocabulary
+  - Interview preparation content
+
+### 🗣️ Speaking Practice
+- Self introduction templates
+- Daily speaking topics
+- Communication improvement practice
+
+### 💼 Interview Preparation
+- Common interview questions
+- Introduction templates
+- Professional communication practice
+
+### 📈 Learning Progress
+- Day completion tracking
+- Progress dashboard
+- Theme preference storage
+
+---
 
 ## What's real vs sample data
 
 | Section | Source |
 |---|---|
 | Roadmap (Day 1-70) | Real — derived from zero_to_hero_grammar.json |
-| Grammar Explorer (115 rules) | Real — merged from both uploaded JSON files |
-| Vocabulary | Sample placeholder — no vocabulary data was provided |
-| Interview Prep | Sample placeholder — no interview data was provided |
-| Self-Intro Templates / Speaking Topics | Sample placeholder |
+| Grammar Explorer (115 rules) | Real — merged from available grammar JSON data |
+| Vocabulary | Sample placeholder — planned for expansion |
+| Interview Prep | Sample placeholder — planned for expansion |
+| Speaking Topics | Sample placeholder — planned for expansion |
 
-Sample sections are visibly badged "Sample Preview" in the UI. Send real
-transcript data in the same JSON shape (see src/data/vocabulary.json,
-interview.json, extras.json) to replace them.
+Sample sections are clearly marked inside the application and can be replaced with real structured JSON data.
 
-## Project structure
+---
+
+## Tech Stack
+
+Frontend:
+- React
+- Vite
+- JavaScript
+- CSS
+
+Tools:
+- React Router
+- LocalStorage
+- Vercel Deployment
+- Git & GitHub
+
+---
+
+## Project Structure
 
 ```
 src/
-  components/   Navbar, Footer
-  pages/        Dashboard, Roadmap, DayDetail, Grammar, Vocabulary,
-                 Interview, Speaking, SearchResults, NotFound
-  data/         grammar.json, days.json (real) + vocabulary.json,
-                 interview.json, extras.json (sample)
-  utils/        search.js (global search), storage.js (progress/theme)
+  components/
+    Navbar
+    Footer
+
+  pages/
+    Dashboard
+    Roadmap
+    DayDetail
+    Grammar
+    Vocabulary
+    Interview
+    Speaking
+    SearchResults
+    NotFound
+
+  data/
+    grammar.json
+    days.json
+    vocabulary.json
+    interview.json
+    extras.json
+
+  utils/
+    search.js
+    storage.js
 ```
 
-## Local development
+---
+
+## Local Development
+
+Clone the repository:
+
+```bash
+git clone <your-github-repo-url>
+```
+
+Move into project:
+
+```bash
+cd spoken-english-platform
+```
+
+Install dependencies:
 
 ```bash
 npm install
+```
+
+Run development server:
+
+```bash
 npm run dev
 ```
 
-## Deploy to Vercel
+Application runs at:
 
-```bash
-git init
-git add .
-git commit -m "Initial commit: English Zero To Hero platform"
-git branch -M main
-git remote add origin <your-github-repo-url>
-git push -u origin main
+```
+http://localhost:5173
 ```
 
-Then on vercel.com:
-1. Import the GitHub repo
-2. Framework preset: Vite (auto-detected)
-3. Build command: npm run build, Output directory: dist
-4. Deploy
+---
 
-vercel.json is already included for SPA client-side routing.
+## Deploy to Vercel
 
-## Next build (future-ready)
+1. Push project to GitHub
 
-- Auth + per-user progress sync (currently localStorage only)
-- Quiz system + flashcards per grammar topic
-- Real vocabulary/interview JSON once source data is provided
-- Leaderboard for streaks
+```bash
+git add .
+git commit -m "Your commit message"
+git push
+```
+
+2. Open Vercel
+
+3. Import GitHub repository
+
+4. Framework:
+```
+Vite
+```
+
+5. Build settings:
+
+```
+Build Command: npm run build
+Output Directory: dist
+```
+
+6. Deploy
+
+`vercel.json` is included for SPA client-side routing support.
+
+---
+
+## Future Improvements
+
+- Firebase authentication
+- Cloud based progress synchronization
+- Grammar quizzes
+- Vocabulary flashcards
+- Daily English challenges
+- AI speaking feedback
+- User streak system
+- Leaderboard
+- Real vocabulary and interview datasets
+
+---
+
+## Learning Goal
+
+This project aims to make English learning more accessible for students who struggle with traditional English resources by providing explanations in a familiar Hinglish style.
+
+---
+
+## Author
+
+Built with ❤️ for students improving their English communication skills.
